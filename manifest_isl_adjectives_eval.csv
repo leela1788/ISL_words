@@ -1,0 +1,1393 @@
+path,label,session_id,split,ext,size_bytes
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_9290.MOV,1. loud,1. loud::mvi::4,train,.mov,14436544
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_5258.MOV,1. loud,1. loud::mvi::2,train,.mov,16769692
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_9536.MOV,1. loud,1. loud::mvi::7,val,.mov,12661860
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_5257.MOV,1. loud,1. loud::mvi::2,train,.mov,11177664
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_5177.MOV,1. loud,1. loud::mvi::1,test,.mov,12440256
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_5259.MOV,1. loud,1. loud::mvi::2,train,.mov,13928468
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_9535.MOV,1. loud,1. loud::mvi::7,val,.mov,14742260
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_9449.MOV,1. loud,1. loud::mvi::6,train,.mov,10128464
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_9450.MOV,1. loud,1. loud::mvi::6,train,.mov,10956268
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_5179.MOV,1. loud,1. loud::mvi::1,test,.mov,14980536
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_9369.MOV,1. loud,1. loud::mvi::5,train,.mov,10279216
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_5335.MOV,1. loud,1. loud::mvi::3,train,.mov,9890788
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_9448.MOV,1. loud,1. loud::mvi::6,train,.mov,12178872
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_5178.MOV,1. loud,1. loud::mvi::1,test,.mov,14287388
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_9368.MOV,1. loud,1. loud::mvi::5,train,.mov,10100644
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_9291.MOV,1. loud,1. loud::mvi::4,train,.mov,14090016
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_5337.MOV,1. loud,1. loud::mvi::3,train,.mov,10493840
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_5336.MOV,1. loud,1. loud::mvi::3,train,.mov,9062596
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_9289.MOV,1. loud,1. loud::mvi::4,train,.mov,12174960
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_9370.MOV,1. loud,1. loud::mvi::5,train,.mov,9887232
+/kaggle/input/adjectives/Adjectives/1. loud/MVI_9534.MOV,1. loud,1. loud::mvi::7,val,.mov,12496628
+/kaggle/input/adjectives/Adjectives/10. Mean/MVI_9594.MOV,10. mean,10. mean::mvi::1,test,.mov,10624656
+/kaggle/input/adjectives/Adjectives/10. Mean/MVI_9592.MOV,10. mean,10. mean::mvi::1,test,.mov,12274532
+/kaggle/input/adjectives/Adjectives/10. Mean/MVI_9595.MOV,10. mean,10. mean::mvi::1,test,.mov,11819992
+/kaggle/input/adjectives/Adjectives/10. Mean/MVI_9729.MOV,10. mean,10. mean::mvi::2,val,.mov,15250224
+/kaggle/input/adjectives/Adjectives/10. Mean/MVI_9731.MOV,10. mean,10. mean::mvi::2,val,.mov,12513164
+/kaggle/input/adjectives/Adjectives/10. Mean/MVI_9593.MOV,10. mean,10. mean::mvi::1,test,.mov,10138356
+/kaggle/input/adjectives/Adjectives/10. Mean/MVI_9732.MOV,10. mean,10. mean::mvi::2,val,.mov,12824452
+/kaggle/input/adjectives/Adjectives/10. Mean/MVI_9730.MOV,10. mean,10. mean::mvi::2,val,.mov,14135972
+/kaggle/input/adjectives/Adjectives/11. rich/MVI_9734.MOV,11. rich,11. rich::mvi::2,val,.mov,14271172
+/kaggle/input/adjectives/Adjectives/11. rich/MVI_9598.MOV,11. rich,11. rich::mvi::1,test,.mov,12675820
+/kaggle/input/adjectives/Adjectives/11. rich/MVI_9596.MOV,11. rich,11. rich::mvi::1,test,.mov,9956908
+/kaggle/input/adjectives/Adjectives/11. rich/MVI_9735.MOV,11. rich,11. rich::mvi::2,val,.mov,13090040
+/kaggle/input/adjectives/Adjectives/11. rich/MVI_9736.MOV,11. rich,11. rich::mvi::2,val,.mov,13750148
+/kaggle/input/adjectives/Adjectives/11. rich/MVI_9597.MOV,11. rich,11. rich::mvi::1,test,.mov,14801664
+/kaggle/input/adjectives/Adjectives/11. rich/MVI_9599.MOV,11. rich,11. rich::mvi::1,test,.mov,13489080
+/kaggle/input/adjectives/Adjectives/11. rich/MVI_9733.MOV,11. rich,11. rich::mvi::2,val,.mov,14292100
+/kaggle/input/adjectives/Adjectives/12. poor/MVI_9739.MOV,12. poor,12. poor::mvi::2,val,.mov,14000948
+/kaggle/input/adjectives/Adjectives/12. poor/MVI_9604.MOV,12. poor,12. poor::mvi::1,test,.mov,14648604
+/kaggle/input/adjectives/Adjectives/12. poor/MVI_9737.MOV,12. poor,12. poor::mvi::2,val,.mov,13714404
+/kaggle/input/adjectives/Adjectives/12. poor/MVI_9600.MOV,12. poor,12. poor::mvi::1,test,.mov,13310832
+/kaggle/input/adjectives/Adjectives/12. poor/MVI_9603.MOV,12. poor,12. poor::mvi::1,test,.mov,14644912
+/kaggle/input/adjectives/Adjectives/12. poor/MVI_9740.MOV,12. poor,12. poor::mvi::2,val,.mov,15749520
+/kaggle/input/adjectives/Adjectives/12. poor/MVI_9738.MOV,12. poor,12. poor::mvi::2,val,.mov,13500940
+/kaggle/input/adjectives/Adjectives/12. poor/MVI_9601.MOV,12. poor,12. poor::mvi::1,test,.mov,15733420
+/kaggle/input/adjectives/Adjectives/15. expensive/MVI_9614.MOV,15. expensive,15. expensive::mvi::1,test,.mov,15424168
+/kaggle/input/adjectives/Adjectives/15. expensive/MVI_9749.MOV,15. expensive,15. expensive::mvi::2,val,.mov,13825880
+/kaggle/input/adjectives/Adjectives/15. expensive/MVI_9746.MOV,15. expensive,15. expensive::mvi::2,val,.mov,12355400
+/kaggle/input/adjectives/Adjectives/15. expensive/MVI_9613.MOV,15. expensive,15. expensive::mvi::1,test,.mov,16635548
+/kaggle/input/adjectives/Adjectives/15. expensive/MVI_9747.MOV,15. expensive,15. expensive::mvi::2,val,.mov,12222720
+/kaggle/input/adjectives/Adjectives/15. expensive/MVI_9748.MOV,15. expensive,15. expensive::mvi::2,val,.mov,13775692
+/kaggle/input/adjectives/Adjectives/15. expensive/MVI_9615.MOV,15. expensive,15. expensive::mvi::1,test,.mov,16140852
+/kaggle/input/adjectives/Adjectives/15. expensive/MVI_9616.MOV,15. expensive,15. expensive::mvi::1,test,.mov,13667336
+/kaggle/input/adjectives/Adjectives/16. cheap/MVI_9752.MOV,16. cheap,16. cheap::mvi::2,val,.mov,14512672
+/kaggle/input/adjectives/Adjectives/16. cheap/MVI_9754.MOV,16. cheap,16. cheap::mvi::2,val,.mov,13273680
+/kaggle/input/adjectives/Adjectives/16. cheap/MVI_9620.MOV,16. cheap,16. cheap::mvi::1,test,.mov,13040636
+/kaggle/input/adjectives/Adjectives/16. cheap/MVI_9750.MOV,16. cheap,16. cheap::mvi::2,val,.mov,13245584
+/kaggle/input/adjectives/Adjectives/16. cheap/MVI_9617.MOV,16. cheap,16. cheap::mvi::1,test,.mov,12123696
+/kaggle/input/adjectives/Adjectives/16. cheap/MVI_9619.MOV,16. cheap,16. cheap::mvi::1,test,.mov,14206556
+/kaggle/input/adjectives/Adjectives/16. cheap/MVI_9618.MOV,16. cheap,16. cheap::mvi::1,test,.mov,13861608
+/kaggle/input/adjectives/Adjectives/16. cheap/MVI_9751.MOV,16. cheap,16. cheap::mvi::2,val,.mov,15421712
+/kaggle/input/adjectives/Adjectives/17. flat/MVI_9756.MOV,17. flat,17. flat::mvi::2,val,.mov,14273720
+/kaggle/input/adjectives/Adjectives/17. flat/MVI_9621.MOV,17. flat,17. flat::mvi::1,test,.mov,12648164
+/kaggle/input/adjectives/Adjectives/17. flat/MVI_9623.MOV,17. flat,17. flat::mvi::1,test,.mov,15185360
+/kaggle/input/adjectives/Adjectives/17. flat/MVI_9622.MOV,17. flat,17. flat::mvi::1,test,.mov,14583468
+/kaggle/input/adjectives/Adjectives/17. flat/MVI_9624.MOV,17. flat,17. flat::mvi::1,test,.mov,14624876
+/kaggle/input/adjectives/Adjectives/17. flat/MVI_9755.MOV,17. flat,17. flat::mvi::2,val,.mov,12725068
+/kaggle/input/adjectives/Adjectives/17. flat/MVI_9757.MOV,17. flat,17. flat::mvi::2,val,.mov,13711188
+/kaggle/input/adjectives/Adjectives/17. flat/MVI_9758.MOV,17. flat,17. flat::mvi::2,val,.mov,13938980
+/kaggle/input/adjectives/Adjectives/18. curved/MVI_9636.MOV,18. curved,18. curved::mvi::1,test,.mov,14482288
+/kaggle/input/adjectives/Adjectives/18. curved/MVI_9635.MOV,18. curved,18. curved::mvi::1,test,.mov,14932272
+/kaggle/input/adjectives/Adjectives/18. curved/MVI_9760.MOV,18. curved,18. curved::mvi::2,val,.mov,18350100
+/kaggle/input/adjectives/Adjectives/18. curved/MVI_9633.MOV,18. curved,18. curved::mvi::1,test,.mov,16786312
+/kaggle/input/adjectives/Adjectives/18. curved/MVI_9634.MOV,18. curved,18. curved::mvi::1,test,.mov,16764796
+/kaggle/input/adjectives/Adjectives/18. curved/MVI_9759.MOV,18. curved,18. curved::mvi::2,val,.mov,15862800
+/kaggle/input/adjectives/Adjectives/18. curved/MVI_9762.MOV,18. curved,18. curved::mvi::2,val,.mov,15335388
+/kaggle/input/adjectives/Adjectives/18. curved/MVI_9761.MOV,18. curved,18. curved::mvi::2,val,.mov,16283440
+/kaggle/input/adjectives/Adjectives/19. male/MVI_9640.MOV,19. male,19. male::mvi::1,test,.mov,16368372
+/kaggle/input/adjectives/Adjectives/19. male/MVI_9764.MOV,19. male,19. male::mvi::2,val,.mov,13465204
+/kaggle/input/adjectives/Adjectives/19. male/MVI_9639.MOV,19. male,19. male::mvi::1,test,.mov,13223864
+/kaggle/input/adjectives/Adjectives/19. male/MVI_9638.MOV,19. male,19. male::mvi::1,test,.mov,17812964
+/kaggle/input/adjectives/Adjectives/19. male/MVI_9763.MOV,19. male,19. male::mvi::2,val,.mov,13569784
+/kaggle/input/adjectives/Adjectives/19. male/MVI_9765.MOV,19. male,19. male::mvi::2,val,.mov,12127388
+/kaggle/input/adjectives/Adjectives/19. male/MVI_9637.MOV,19. male,19. male::mvi::1,test,.mov,12812268
+/kaggle/input/adjectives/Adjectives/19. male/MVI_9766.MOV,19. male,19. male::mvi::2,val,.mov,11564816
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_9292.MOV,2. quiet,2. quiet::mvi::4,train,.mov,11950916
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_5181.MOV,2. quiet,2. quiet::mvi::1,test,.mov,16763940
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_9539.MOV,2. quiet,2. quiet::mvi::7,val,.mov,14585812
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_9371.MOV,2. quiet,2. quiet::mvi::5,train,.mov,10397008
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_5260.MOV,2. quiet,2. quiet::mvi::2,train,.mov,15199796
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_9538.MOV,2. quiet,2. quiet::mvi::7,val,.mov,14756444
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_9537.MOV,2. quiet,2. quiet::mvi::7,val,.mov,15560584
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_5182.MOV,2. quiet,2. quiet::mvi::1,test,.mov,17103764
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_5340.MOV,2. quiet,2. quiet::mvi::3,train,.mov,11604724
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_9452.MOV,2. quiet,2. quiet::mvi::6,train,.mov,14925800
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_5339.MOV,2. quiet,2. quiet::mvi::3,train,.mov,11237344
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_5261.MOV,2. quiet,2. quiet::mvi::2,train,.mov,13899540
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_9451.MOV,2. quiet,2. quiet::mvi::6,train,.mov,12805568
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_9293.MOV,2. quiet,2. quiet::mvi::4,train,.mov,11864328
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_9294.MOV,2. quiet,2. quiet::mvi::4,train,.mov,12600800
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_9373.MOV,2. quiet,2. quiet::mvi::5,train,.mov,10180880
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_5338.MOV,2. quiet,2. quiet::mvi::3,train,.mov,9659436
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_5180.MOV,2. quiet,2. quiet::mvi::1,test,.mov,15063928
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_5262.MOV,2. quiet,2. quiet::mvi::2,train,.mov,14479460
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_9372.MOV,2. quiet,2. quiet::mvi::5,train,.mov,10171728
+/kaggle/input/adjectives/Adjectives/2. quiet/MVI_9453.MOV,2. quiet,2. quiet::mvi::6,train,.mov,13507892
+/kaggle/input/adjectives/Adjectives/20. female/MVI_9767.MOV,20. female,20. female::mvi::2,val,.mov,10340984
+/kaggle/input/adjectives/Adjectives/20. female/MVI_9768.MOV,20. female,20. female::mvi::2,val,.mov,11847620
+/kaggle/input/adjectives/Adjectives/20. female/MVI_9645.MOV,20. female,20. female::mvi::1,test,.mov,10650636
+/kaggle/input/adjectives/Adjectives/20. female/MVI_9644.MOV,20. female,20. female::mvi::1,test,.mov,9863124
+/kaggle/input/adjectives/Adjectives/20. female/MVI_9770.MOV,20. female,20. female::mvi::2,val,.mov,12327076
+/kaggle/input/adjectives/Adjectives/20. female/MVI_9769.MOV,20. female,20. female::mvi::2,val,.mov,10305684
+/kaggle/input/adjectives/Adjectives/20. female/MVI_9643.MOV,20. female,20. female::mvi::1,test,.mov,11286048
+/kaggle/input/adjectives/Adjectives/20. female/MVI_9642.MOV,20. female,20. female::mvi::1,test,.mov,12451360
+/kaggle/input/adjectives/Adjectives/23. high/MVI_9781.MOV,23. high,23. high::mvi::2,test,.mov,12598840
+/kaggle/input/adjectives/Adjectives/23. high/MVI_9783.MOV,23. high,23. high::mvi::2,test,.mov,13561132
+/kaggle/input/adjectives/Adjectives/23. high/MVI_9656.MOV,23. high,23. high::mvi::1,val,.mov,14131040
+/kaggle/input/adjectives/Adjectives/23. high/MVI_9657.MOV,23. high,23. high::mvi::1,val,.mov,15394696
+/kaggle/input/adjectives/Adjectives/23. high/MVI_9780.MOV,23. high,23. high::mvi::2,test,.mov,14172972
+/kaggle/input/adjectives/Adjectives/23. high/MVI_9782.MOV,23. high,23. high::mvi::2,test,.mov,12835860
+/kaggle/input/adjectives/Adjectives/24. low/MVI_9785.MOV,24. low,24. low::mvi::2,val,.mov,11531720
+/kaggle/input/adjectives/Adjectives/24. low/MVI_9659.MOV,24. low,24. low::mvi::1,test,.mov,13203428
+/kaggle/input/adjectives/Adjectives/24. low/MVI_9787.MOV,24. low,24. low::mvi::2,val,.mov,13112656
+/kaggle/input/adjectives/Adjectives/24. low/MVI_9660.MOV,24. low,24. low::mvi::1,test,.mov,14183668
+/kaggle/input/adjectives/Adjectives/24. low/MVI_9786.MOV,24. low,24. low::mvi::2,val,.mov,11562464
+/kaggle/input/adjectives/Adjectives/24. low/MVI_9661.MOV,24. low,24. low::mvi::1,test,.mov,13968092
+/kaggle/input/adjectives/Adjectives/24. low/MVI_9784.MOV,24. low,24. low::mvi::2,val,.mov,12074384
+/kaggle/input/adjectives/Adjectives/24. low/MVI_9658.MOV,24. low,24. low::mvi::1,test,.mov,14413732
+/kaggle/input/adjectives/Adjectives/25. soft/MVI_9665.MOV,25. soft,25. soft::mvi::1,test,.mov,14502440
+/kaggle/input/adjectives/Adjectives/25. soft/MVI_9663.MOV,25. soft,25. soft::mvi::1,test,.mov,12978504
+/kaggle/input/adjectives/Adjectives/25. soft/MVI_9664.MOV,25. soft,25. soft::mvi::1,test,.mov,15158400
+/kaggle/input/adjectives/Adjectives/25. soft/MVI_9662.MOV,25. soft,25. soft::mvi::1,test,.mov,14883056
+/kaggle/input/adjectives/Adjectives/25. soft/MVI_9791.MOV,25. soft,25. soft::mvi::2,val,.mov,13432200
+/kaggle/input/adjectives/Adjectives/25. soft/MVI_9792.MOV,25. soft,25. soft::mvi::2,val,.mov,12797756
+/kaggle/input/adjectives/Adjectives/25. soft/MVI_9790.MOV,25. soft,25. soft::mvi::2,val,.mov,13617972
+/kaggle/input/adjectives/Adjectives/25. soft/MVI_9789.MOV,25. soft,25. soft::mvi::2,val,.mov,11826272
+/kaggle/input/adjectives/Adjectives/26. hard/MVI_9669.MOV,26. hard,26. hard::mvi::1,test,.mov,16435472
+/kaggle/input/adjectives/Adjectives/26. hard/MVI_9666.MOV,26. hard,26. hard::mvi::1,test,.mov,14336172
+/kaggle/input/adjectives/Adjectives/26. hard/MVI_9667.MOV,26. hard,26. hard::mvi::1,test,.mov,16712988
+/kaggle/input/adjectives/Adjectives/26. hard/MVI_9794.MOV,26. hard,26. hard::mvi::2,val,.mov,12566620
+/kaggle/input/adjectives/Adjectives/26. hard/MVI_9668.MOV,26. hard,26. hard::mvi::1,test,.mov,15716032
+/kaggle/input/adjectives/Adjectives/26. hard/MVI_9795.MOV,26. hard,26. hard::mvi::2,val,.mov,12839744
+/kaggle/input/adjectives/Adjectives/26. hard/MVI_9796.MOV,26. hard,26. hard::mvi::2,val,.mov,12070044
+/kaggle/input/adjectives/Adjectives/26. hard/MVI_9793.MOV,26. hard,26. hard::mvi::2,val,.mov,13743776
+/kaggle/input/adjectives/Adjectives/27. deep/MVI_9798.MOV,27. deep,27. deep::mvi::2,val,.mov,13246424
+/kaggle/input/adjectives/Adjectives/27. deep/MVI_9670.MOV,27. deep,27. deep::mvi::1,test,.mov,14618804
+/kaggle/input/adjectives/Adjectives/27. deep/MVI_9799.MOV,27. deep,27. deep::mvi::2,val,.mov,14063440
+/kaggle/input/adjectives/Adjectives/27. deep/MVI_9797.MOV,27. deep,27. deep::mvi::2,val,.mov,13072304
+/kaggle/input/adjectives/Adjectives/27. deep/MVI_9673.MOV,27. deep,27. deep::mvi::1,test,.mov,14219716
+/kaggle/input/adjectives/Adjectives/27. deep/MVI_9671.MOV,27. deep,27. deep::mvi::1,test,.mov,15545520
+/kaggle/input/adjectives/Adjectives/27. deep/MVI_9672.MOV,27. deep,27. deep::mvi::1,test,.mov,16219248
+/kaggle/input/adjectives/Adjectives/27. deep/MVI_9800.MOV,27. deep,27. deep::mvi::2,val,.mov,15513416
+/kaggle/input/adjectives/Adjectives/28. shallow/MVI_9803.MOV,28. shallow,28. shallow::mvi::2,val,.mov,22339280
+/kaggle/input/adjectives/Adjectives/28. shallow/MVI_9676.MOV,28. shallow,28. shallow::mvi::1,test,.mov,24657804
+/kaggle/input/adjectives/Adjectives/28. shallow/MVI_9804.MOV,28. shallow,28. shallow::mvi::2,val,.mov,22037940
+/kaggle/input/adjectives/Adjectives/28. shallow/MVI_9677.MOV,28. shallow,28. shallow::mvi::1,test,.mov,20781856
+/kaggle/input/adjectives/Adjectives/28. shallow/MVI_9675.MOV,28. shallow,28. shallow::mvi::1,test,.mov,23121844
+/kaggle/input/adjectives/Adjectives/28. shallow/MVI_9802.MOV,28. shallow,28. shallow::mvi::2,val,.mov,22489804
+/kaggle/input/adjectives/Adjectives/28. shallow/MVI_9801.MOV,28. shallow,28. shallow::mvi::2,val,.mov,21555920
+/kaggle/input/adjectives/Adjectives/28. shallow/MVI_9674.MOV,28. shallow,28. shallow::mvi::1,test,.mov,20775564
+/kaggle/input/adjectives/Adjectives/29. clean/MVI_9806.MOV,29. clean,29. clean::mvi::2,val,.mov,14224424
+/kaggle/input/adjectives/Adjectives/29. clean/MVI_9679.MOV,29. clean,29. clean::mvi::1,test,.mov,15456528
+/kaggle/input/adjectives/Adjectives/29. clean/MVI_9680.MOV,29. clean,29. clean::mvi::1,test,.mov,14574844
+/kaggle/input/adjectives/Adjectives/29. clean/MVI_9807.MOV,29. clean,29. clean::mvi::2,val,.mov,13307940
+/kaggle/input/adjectives/Adjectives/29. clean/MVI_9809.MOV,29. clean,29. clean::mvi::2,val,.mov,12851264
+/kaggle/input/adjectives/Adjectives/29. clean/MVI_9681.MOV,29. clean,29. clean::mvi::1,test,.mov,14530480
+/kaggle/input/adjectives/Adjectives/29. clean/MVI_9808.MOV,29. clean,29. clean::mvi::2,val,.mov,12782012
+/kaggle/input/adjectives/Adjectives/29. clean/MVI_9682.MOV,29. clean,29. clean::mvi::1,test,.mov,14531008
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_9541.MOV,3. happy,3. happy::mvi::7,val,.mov,12612788
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_9456.MOV,3. happy,3. happy::mvi::6,train,.mov,9356140
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_5342.MOV,3. happy,3. happy::mvi::3,train,.mov,11678420
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_5184.MOV,3. happy,3. happy::mvi::1,test,.mov,15589656
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_9454.MOV,3. happy,3. happy::mvi::6,train,.mov,9549268
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_5185.MOV,3. happy,3. happy::mvi::1,test,.mov,17610096
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_9542.MOV,3. happy,3. happy::mvi::7,val,.mov,12873880
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_5265.MOV,3. happy,3. happy::mvi::2,train,.mov,10278352
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_9455.MOV,3. happy,3. happy::mvi::6,train,.mov,11264112
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_9297.MOV,3. happy,3. happy::mvi::4,train,.mov,10457168
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_9375.MOV,3. happy,3. happy::mvi::5,train,.mov,8779884
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_9296.MOV,3. happy,3. happy::mvi::4,train,.mov,11152836
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_9374.MOV,3. happy,3. happy::mvi::5,train,.mov,9714504
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_9295.MOV,3. happy,3. happy::mvi::4,train,.mov,10462608
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_9376.MOV,3. happy,3. happy::mvi::5,train,.mov,7552304
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_5263.MOV,3. happy,3. happy::mvi::2,train,.mov,11577300
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_5183.MOV,3. happy,3. happy::mvi::1,test,.mov,16016672
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_9540.MOV,3. happy,3. happy::mvi::7,val,.mov,11215996
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_5341.MOV,3. happy,3. happy::mvi::3,train,.mov,8952348
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_5343.MOV,3. happy,3. happy::mvi::3,train,.mov,16145312
+/kaggle/input/adjectives/Adjectives/3. happy/MVI_5264.MOV,3. happy,3. happy::mvi::2,train,.mov,12253500
+/kaggle/input/adjectives/Adjectives/30. dirty/MVI_9685.MOV,30. dirty,30. dirty::mvi::1,test,.mov,15961624
+/kaggle/input/adjectives/Adjectives/30. dirty/MVI_9684.MOV,30. dirty,30. dirty::mvi::1,test,.mov,14887376
+/kaggle/input/adjectives/Adjectives/30. dirty/MVI_9812.MOV,30. dirty,30. dirty::mvi::2,val,.mov,15682324
+/kaggle/input/adjectives/Adjectives/30. dirty/MVI_9810.MOV,30. dirty,30. dirty::mvi::2,val,.mov,12518320
+/kaggle/input/adjectives/Adjectives/30. dirty/MVI_9811.MOV,30. dirty,30. dirty::mvi::2,val,.mov,15322544
+/kaggle/input/adjectives/Adjectives/30. dirty/MVI_9813.MOV,30. dirty,30. dirty::mvi::2,val,.mov,16053072
+/kaggle/input/adjectives/Adjectives/30. dirty/MVI_9687.MOV,30. dirty,30. dirty::mvi::1,test,.mov,14560604
+/kaggle/input/adjectives/Adjectives/30. dirty/MVI_9686.MOV,30. dirty,30. dirty::mvi::1,test,.mov,15350360
+/kaggle/input/adjectives/Adjectives/31. strong/MVI_9691.MOV,31. strong,31. strong::mvi::1,test,.mov,11825104
+/kaggle/input/adjectives/Adjectives/31. strong/MVI_9690.MOV,31. strong,31. strong::mvi::1,test,.mov,13253348
+/kaggle/input/adjectives/Adjectives/31. strong/MVI_9816.MOV,31. strong,31. strong::mvi::2,val,.mov,12177108
+/kaggle/input/adjectives/Adjectives/31. strong/MVI_9815.MOV,31. strong,31. strong::mvi::2,val,.mov,12620512
+/kaggle/input/adjectives/Adjectives/31. strong/MVI_9692.MOV,31. strong,31. strong::mvi::1,test,.mov,13252872
+/kaggle/input/adjectives/Adjectives/31. strong/MVI_9817.MOV,31. strong,31. strong::mvi::2,val,.mov,10348528
+/kaggle/input/adjectives/Adjectives/31. strong/MVI_9814.MOV,31. strong,31. strong::mvi::2,val,.mov,11757356
+/kaggle/input/adjectives/Adjectives/31. strong/MVI_9693.MOV,31. strong,31. strong::mvi::1,test,.mov,12772340
+/kaggle/input/adjectives/Adjectives/32. weak/MVI_9819.MOV,32. weak,32. weak::mvi::2,val,.mov,13949656
+/kaggle/input/adjectives/Adjectives/32. weak/MVI_9818.MOV,32. weak,32. weak::mvi::2,val,.mov,11897640
+/kaggle/input/adjectives/Adjectives/32. weak/MVI_9821.MOV,32. weak,32. weak::mvi::2,val,.mov,12801576
+/kaggle/input/adjectives/Adjectives/32. weak/MVI_9820.MOV,32. weak,32. weak::mvi::2,val,.mov,14891348
+/kaggle/input/adjectives/Adjectives/32. weak/MVI_9694.MOV,32. weak,32. weak::mvi::1,test,.mov,12277044
+/kaggle/input/adjectives/Adjectives/32. weak/MVI_9697.MOV,32. weak,32. weak::mvi::1,test,.mov,13554220
+/kaggle/input/adjectives/Adjectives/32. weak/MVI_9695.MOV,32. weak,32. weak::mvi::1,test,.mov,13636296
+/kaggle/input/adjectives/Adjectives/32. weak/MVI_9696.MOV,32. weak,32. weak::mvi::1,test,.mov,13280816
+/kaggle/input/adjectives/Adjectives/33. dead/MVI_9700.MOV,33. dead,33. dead::mvi::1,test,.mov,10765900
+/kaggle/input/adjectives/Adjectives/33. dead/MVI_9823.MOV,33. dead,33. dead::mvi::2,val,.mov,12262444
+/kaggle/input/adjectives/Adjectives/33. dead/MVI_9702.MOV,33. dead,33. dead::mvi::1,test,.mov,12702288
+/kaggle/input/adjectives/Adjectives/33. dead/MVI_9824.MOV,33. dead,33. dead::mvi::2,val,.mov,12239544
+/kaggle/input/adjectives/Adjectives/33. dead/MVI_9699.MOV,33. dead,33. dead::mvi::1,test,.mov,10867960
+/kaggle/input/adjectives/Adjectives/33. dead/MVI_9701.MOV,33. dead,33. dead::mvi::1,test,.mov,11967744
+/kaggle/input/adjectives/Adjectives/33. dead/MVI_9825.MOV,33. dead,33. dead::mvi::2,val,.mov,11644824
+/kaggle/input/adjectives/Adjectives/33. dead/MVI_9826.MOV,33. dead,33. dead::mvi::2,val,.mov,11165448
+/kaggle/input/adjectives/Adjectives/34. alive/MVI_9704.MOV,34. alive,34. alive::mvi::1,test,.mov,11541712
+/kaggle/input/adjectives/Adjectives/34. alive/MVI_9703.MOV,34. alive,34. alive::mvi::1,test,.mov,9442388
+/kaggle/input/adjectives/Adjectives/34. alive/MVI_9706.MOV,34. alive,34. alive::mvi::1,test,.mov,11461288
+/kaggle/input/adjectives/Adjectives/34. alive/MVI_9830.MOV,34. alive,34. alive::mvi::2,val,.mov,11087964
+/kaggle/input/adjectives/Adjectives/34. alive/MVI_9828.MOV,34. alive,34. alive::mvi::2,val,.mov,13324968
+/kaggle/input/adjectives/Adjectives/34. alive/MVI_9829.MOV,34. alive,34. alive::mvi::2,val,.mov,12029672
+/kaggle/input/adjectives/Adjectives/34. alive/MVI_9827.MOV,34. alive,34. alive::mvi::2,val,.mov,12651368
+/kaggle/input/adjectives/Adjectives/34. alive/MVI_9705.MOV,34. alive,34. alive::mvi::1,test,.mov,11221940
+/kaggle/input/adjectives/Adjectives/35. heavy/MVI_9708.MOV,35. heavy,35. heavy::mvi::1,test,.mov,12625268
+/kaggle/input/adjectives/Adjectives/35. heavy/MVI_9710.MOV,35. heavy,35. heavy::mvi::1,test,.mov,13794248
+/kaggle/input/adjectives/Adjectives/35. heavy/MVI_9707.MOV,35. heavy,35. heavy::mvi::1,test,.mov,12614832
+/kaggle/input/adjectives/Adjectives/35. heavy/MVI_9834.MOV,35. heavy,35. heavy::mvi::2,val,.mov,14226588
+/kaggle/input/adjectives/Adjectives/35. heavy/MVI_9833.MOV,35. heavy,35. heavy::mvi::2,val,.mov,13724700
+/kaggle/input/adjectives/Adjectives/35. heavy/MVI_9831.MOV,35. heavy,35. heavy::mvi::2,val,.mov,14731332
+/kaggle/input/adjectives/Adjectives/35. heavy/MVI_9832.MOV,35. heavy,35. heavy::mvi::2,val,.mov,14799964
+/kaggle/input/adjectives/Adjectives/35. heavy/MVI_9709.MOV,35. heavy,35. heavy::mvi::1,test,.mov,13844644
+/kaggle/input/adjectives/Adjectives/36. light/MVI_9838.MOV,36. light,36. light::mvi::2,val,.mov,13359124
+/kaggle/input/adjectives/Adjectives/36. light/MVI_9835.MOV,36. light,36. light::mvi::2,val,.mov,14432692
+/kaggle/input/adjectives/Adjectives/36. light/MVI_9711.MOV,36. light,36. light::mvi::1,test,.mov,11901160
+/kaggle/input/adjectives/Adjectives/36. light/MVI_9712.MOV,36. light,36. light::mvi::1,test,.mov,12174920
+/kaggle/input/adjectives/Adjectives/36. light/MVI_9837.MOV,36. light,36. light::mvi::2,val,.mov,13984864
+/kaggle/input/adjectives/Adjectives/36. light/MVI_9713.MOV,36. light,36. light::mvi::1,test,.mov,12997592
+/kaggle/input/adjectives/Adjectives/36. light/MVI_9714.MOV,36. light,36. light::mvi::1,test,.mov,13051668
+/kaggle/input/adjectives/Adjectives/36. light/MVI_9836.MOV,36. light,36. light::mvi::2,val,.mov,14131072
+/kaggle/input/adjectives/Adjectives/39. famous/MVI_9842.MOV,39. famous,39. famous::mvi::2,val,.mov,10848960
+/kaggle/input/adjectives/Adjectives/39. famous/MVI_9839.MOV,39. famous,39. famous::mvi::2,val,.mov,13780340
+/kaggle/input/adjectives/Adjectives/39. famous/MVI_9717.MOV,39. famous,39. famous::mvi::1,test,.mov,10359504
+/kaggle/input/adjectives/Adjectives/39. famous/MVI_9843.MOV,39. famous,39. famous::mvi::2,val,.mov,11336108
+/kaggle/input/adjectives/Adjectives/39. famous/MVI_9715.MOV,39. famous,39. famous::mvi::1,test,.mov,11187032
+/kaggle/input/adjectives/Adjectives/39. famous/MVI_9841.MOV,39. famous,39. famous::mvi::2,val,.mov,10687992
+/kaggle/input/adjectives/Adjectives/39. famous/MVI_9718.MOV,39. famous,39. famous::mvi::1,test,.mov,11076712
+/kaggle/input/adjectives/Adjectives/39. famous/MVI_9716.MOV,39. famous,39. famous::mvi::1,test,.mov,12911448
+/kaggle/input/adjectives/Adjectives/4. sad/MVI_9565.MOV,4. sad,4. sad::mvi::1,test,.mov,14142872
+/kaggle/input/adjectives/Adjectives/4. sad/MVI_9568.MOV,4. sad,4. sad::mvi::1,test,.mov,15574320
+/kaggle/input/adjectives/Adjectives/4. sad/MVI_9720.MOV,4. sad,4. sad::mvi::2,val,.mov,13601212
+/kaggle/input/adjectives/Adjectives/4. sad/MVI_9719.MOV,4. sad,4. sad::mvi::2,val,.mov,14526252
+/kaggle/input/adjectives/Adjectives/4. sad/MVI_9722.MOV,4. sad,4. sad::mvi::2,val,.mov,13923228
+/kaggle/input/adjectives/Adjectives/4. sad/MVI_9566.MOV,4. sad,4. sad::mvi::1,test,.mov,16730016
+/kaggle/input/adjectives/Adjectives/4. sad/MVI_9721.MOV,4. sad,4. sad::mvi::2,val,.mov,15162608
+/kaggle/input/adjectives/Adjectives/4. sad/MVI_9567.MOV,4. sad,4. sad::mvi::1,test,.mov,13139080
+/kaggle/input/adjectives/Adjectives/40. I/MVI_9957.MOV,40. i,40. i::mvi::6,train,.mov,10085964
+/kaggle/input/adjectives/Adjectives/40. I/MVI_0066.MOV,40. i,40. i::mvi::3,train,.mov,14462284
+/kaggle/input/adjectives/Adjectives/40. I/MVI_0002.MOV,40. i,40. i::mvi::1,train,.mov,20061556
+/kaggle/input/adjectives/Adjectives/40. I/MVI_0065.MOV,40. i,40. i::mvi::3,train,.mov,15962856
+/kaggle/input/adjectives/Adjectives/40. I/MVI_0013.MOV,40. i,40. i::mvi::2,train,.mov,9554464
+/kaggle/input/adjectives/Adjectives/40. I/MVI_9881.MOV,40. i,40. i::mvi::4,val,.mov,10934360
+/kaggle/input/adjectives/Adjectives/40. I/MVI_0001.MOV,40. i,40. i::mvi::1,train,.mov,14578904
+/kaggle/input/adjectives/Adjectives/40. I/MVI_9958.MOV,40. i,40. i::mvi::6,train,.mov,10286140
+/kaggle/input/adjectives/Adjectives/40. I/MVI_9919.MOV,40. i,40. i::mvi::5,train,.mov,17563676
+/kaggle/input/adjectives/Adjectives/40. I/MVI_0064.MOV,40. i,40. i::mvi::3,train,.mov,14382612
+/kaggle/input/adjectives/Adjectives/40. I/MVI_9922.MOV,40. i,40. i::mvi::5,train,.mov,14662612
+/kaggle/input/adjectives/Adjectives/40. I/MVI_9959.MOV,40. i,40. i::mvi::6,train,.mov,11008764
+/kaggle/input/adjectives/Adjectives/40. I/MVI_0003.MOV,40. i,40. i::mvi::1,train,.mov,11685924
+/kaggle/input/adjectives/Adjectives/40. I/MVI_9918.MOV,40. i,40. i::mvi::5,train,.mov,18066204
+/kaggle/input/adjectives/Adjectives/40. I/MVI_9995.MOV,40. i,40. i::mvi::7,test,.mov,16712744
+/kaggle/input/adjectives/Adjectives/40. I/MVI_9878.MOV,40. i,40. i::mvi::4,val,.mov,10635184
+/kaggle/input/adjectives/Adjectives/40. I/MVI_0012.MOV,40. i,40. i::mvi::2,train,.mov,9956468
+/kaggle/input/adjectives/Adjectives/40. I/MVI_9880.MOV,40. i,40. i::mvi::4,val,.mov,11924548
+/kaggle/input/adjectives/Adjectives/40. I/MVI_0014.MOV,40. i,40. i::mvi::2,train,.mov,10015628
+/kaggle/input/adjectives/Adjectives/40. I/MVI_9920.MOV,40. i,40. i::mvi::5,train,.mov,17267244
+/kaggle/input/adjectives/Adjectives/40. I/MVI_9879.MOV,40. i,40. i::mvi::4,val,.mov,11696108
+/kaggle/input/adjectives/Adjectives/41. you/MVI_0016.MOV,41. you,41. you::mvi::1,test,.mov,12739724
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9886.MOV,41. you,41. you::mvi::3,train,.mov,9840232
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9888.MOV,41. you,41. you::mvi::3,train,.mov,8587340
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9885.MOV,41. you,41. you::mvi::3,train,.mov,9240360
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9999.MOV,41. you,41. you::mvi::6,train,.mov,15881940
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9887.MOV,41. you,41. you::mvi::3,train,.mov,10097092
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9960.MOV,41. you,41. you::mvi::5,train,.mov,10438032
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9925.MOV,41. you,41. you::mvi::4,val,.mov,17894896
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9923.MOV,41. you,41. you::mvi::4,val,.mov,14619372
+/kaggle/input/adjectives/Adjectives/41. you/MVI_0069.MOV,41. you,41. you::mvi::2,train,.mov,14185436
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9962.MOV,41. you,41. you::mvi::5,train,.mov,9321768
+/kaggle/input/adjectives/Adjectives/41. you/MVI_0067.MOV,41. you,41. you::mvi::2,train,.mov,13966916
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9926.MOV,41. you,41. you::mvi::4,val,.mov,19273120
+/kaggle/input/adjectives/Adjectives/41. you/MVI_0068.MOV,41. you,41. you::mvi::2,train,.mov,14172928
+/kaggle/input/adjectives/Adjectives/41. you/MVI_0015.MOV,41. you,41. you::mvi::1,test,.mov,10428072
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9996.MOV,41. you,41. you::mvi::6,train,.mov,15279368
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9998.MOV,41. you,41. you::mvi::6,train,.mov,15247188
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9961.MOV,41. you,41. you::mvi::5,train,.mov,10458992
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9924.MOV,41. you,41. you::mvi::4,val,.mov,19817512
+/kaggle/input/adjectives/Adjectives/41. you/MVI_0017.MOV,41. you,41. you::mvi::1,test,.mov,10870288
+/kaggle/input/adjectives/Adjectives/41. you/MVI_9997.MOV,41. you,41. you::mvi::6,train,.mov,14365724
+/kaggle/input/adjectives/Adjectives/42. he/MVI_0072.MOV,42. he,42. he::mvi::3,train,.mov,17405456
+/kaggle/input/adjectives/Adjectives/42. he/MVI_9892.MOV,42. he,42. he::mvi::4,val,.mov,11414220
+/kaggle/input/adjectives/Adjectives/42. he/MVI_9930.MOV,42. he,42. he::mvi::5,train,.mov,16854020
+/kaggle/input/adjectives/Adjectives/42. he/MVI_0019.MOV,42. he,42. he::mvi::2,test,.mov,12954800
+/kaggle/input/adjectives/Adjectives/42. he/MVI_9928.MOV,42. he,42. he::mvi::5,train,.mov,19938424
+/kaggle/input/adjectives/Adjectives/42. he/MVI_0018.MOV,42. he,42. he::mvi::2,test,.mov,9519136
+/kaggle/input/adjectives/Adjectives/42. he/MVI_9889.MOV,42. he,42. he::mvi::4,val,.mov,11105452
+/kaggle/input/adjectives/Adjectives/42. he/MVI_0005.MOV,42. he,42. he::mvi::1,train,.mov,16749396
+/kaggle/input/adjectives/Adjectives/42. he/MVI_9890.MOV,42. he,42. he::mvi::4,val,.mov,12268196
+/kaggle/input/adjectives/Adjectives/42. he/MVI_0008.MOV,42. he,42. he::mvi::1,train,.mov,15799188
+/kaggle/input/adjectives/Adjectives/42. he/MVI_9891.MOV,42. he,42. he::mvi::4,val,.mov,11667984
+/kaggle/input/adjectives/Adjectives/42. he/MVI_9963.MOV,42. he,42. he::mvi::6,train,.mov,11250300
+/kaggle/input/adjectives/Adjectives/42. he/MVI_0007.MOV,42. he,42. he::mvi::1,train,.mov,16559928
+/kaggle/input/adjectives/Adjectives/42. he/MVI_0006.MOV,42. he,42. he::mvi::1,train,.mov,17675640
+/kaggle/input/adjectives/Adjectives/42. he/MVI_9965.MOV,42. he,42. he::mvi::6,train,.mov,12329768
+/kaggle/input/adjectives/Adjectives/42. he/MVI_9931.MOV,42. he,42. he::mvi::5,train,.mov,18949340
+/kaggle/input/adjectives/Adjectives/42. he/MVI_0071.MOV,42. he,42. he::mvi::3,train,.mov,17439352
+/kaggle/input/adjectives/Adjectives/42. he/MVI_0020.MOV,42. he,42. he::mvi::2,test,.mov,11878724
+/kaggle/input/adjectives/Adjectives/42. he/MVI_9927.MOV,42. he,42. he::mvi::5,train,.mov,20647816
+/kaggle/input/adjectives/Adjectives/42. he/MVI_0070.MOV,42. he,42. he::mvi::3,train,.mov,16025904
+/kaggle/input/adjectives/Adjectives/42. he/MVI_9964.MOV,42. he,42. he::mvi::6,train,.mov,13464044
+/kaggle/input/adjectives/Adjectives/43. she/MVI_0021.MOV,43. she,43. she::mvi::2,test,.mov,9143552
+/kaggle/input/adjectives/Adjectives/43. she/MVI_0073.MOV,43. she,43. she::mvi::3,train,.mov,16634620
+/kaggle/input/adjectives/Adjectives/43. she/MVI_9934.MOV,43. she,43. she::mvi::5,train,.mov,19123328
+/kaggle/input/adjectives/Adjectives/43. she/MVI_9967.MOV,43. she,43. she::mvi::6,train,.mov,11180128
+/kaggle/input/adjectives/Adjectives/43. she/MVI_9935.MOV,43. she,43. she::mvi::5,train,.mov,21203936
+/kaggle/input/adjectives/Adjectives/43. she/MVI_9895.MOV,43. she,43. she::mvi::4,val,.mov,12269592
+/kaggle/input/adjectives/Adjectives/43. she/MVI_0023.MOV,43. she,43. she::mvi::2,test,.mov,11497972
+/kaggle/input/adjectives/Adjectives/43. she/MVI_0010.MOV,43. she,43. she::mvi::1,train,.mov,17670616
+/kaggle/input/adjectives/Adjectives/43. she/MVI_9896.MOV,43. she,43. she::mvi::4,val,.mov,11483204
+/kaggle/input/adjectives/Adjectives/43. she/MVI_9893.MOV,43. she,43. she::mvi::4,val,.mov,10868368
+/kaggle/input/adjectives/Adjectives/43. she/MVI_9932.MOV,43. she,43. she::mvi::5,train,.mov,23786232
+/kaggle/input/adjectives/Adjectives/43. she/MVI_9968.MOV,43. she,43. she::mvi::6,train,.mov,11843768
+/kaggle/input/adjectives/Adjectives/43. she/MVI_0009.MOV,43. she,43. she::mvi::1,train,.mov,16389648
+/kaggle/input/adjectives/Adjectives/43. she/MVI_9894.MOV,43. she,43. she::mvi::4,val,.mov,11170016
+/kaggle/input/adjectives/Adjectives/43. she/MVI_9933.MOV,43. she,43. she::mvi::5,train,.mov,20516212
+/kaggle/input/adjectives/Adjectives/43. she/MVI_0012.MOV,43. she,43. she::mvi::1,train,.mov,17916036
+/kaggle/input/adjectives/Adjectives/43. she/MVI_9966.MOV,43. she,43. she::mvi::6,train,.mov,10466800
+/kaggle/input/adjectives/Adjectives/43. she/MVI_0011.MOV,43. she,43. she::mvi::1,train,.mov,16846996
+/kaggle/input/adjectives/Adjectives/43. she/MVI_0074.MOV,43. she,43. she::mvi::3,train,.mov,16011888
+/kaggle/input/adjectives/Adjectives/43. she/MVI_0075.MOV,43. she,43. she::mvi::3,train,.mov,14970328
+/kaggle/input/adjectives/Adjectives/43. she/MVI_0022.MOV,43. she,43. she::mvi::2,test,.mov,11302388
+/kaggle/input/adjectives/Adjectives/44. it/MVI_0016.MOV,44. it,44. it::mvi::1,train,.mov,15509416
+/kaggle/input/adjectives/Adjectives/44. it/MVI_9938.MOV,44. it,44. it::mvi::5,train,.mov,14803120
+/kaggle/input/adjectives/Adjectives/44. it/MVI_0024.MOV,44. it,44. it::mvi::2,test,.mov,9660976
+/kaggle/input/adjectives/Adjectives/44. it/MVI_0078.MOV,44. it,44. it::mvi::3,train,.mov,12755192
+/kaggle/input/adjectives/Adjectives/44. it/MVI_0077.MOV,44. it,44. it::mvi::3,train,.mov,15327436
+/kaggle/input/adjectives/Adjectives/44. it/MVI_0025.MOV,44. it,44. it::mvi::2,test,.mov,9110468
+/kaggle/input/adjectives/Adjectives/44. it/MVI_0013.MOV,44. it,44. it::mvi::1,train,.mov,14465948
+/kaggle/input/adjectives/Adjectives/44. it/MVI_9970.MOV,44. it,44. it::mvi::6,train,.mov,10439376
+/kaggle/input/adjectives/Adjectives/44. it/MVI_9899.MOV,44. it,44. it::mvi::4,val,.mov,9599264
+/kaggle/input/adjectives/Adjectives/44. it/MVI_9898.MOV,44. it,44. it::mvi::4,val,.mov,9952116
+/kaggle/input/adjectives/Adjectives/44. it/MVI_9936.MOV,44. it,44. it::mvi::5,train,.mov,16022332
+/kaggle/input/adjectives/Adjectives/44. it/MVI_9937.MOV,44. it,44. it::mvi::5,train,.mov,18993472
+/kaggle/input/adjectives/Adjectives/44. it/MVI_9897.MOV,44. it,44. it::mvi::4,val,.mov,9540316
+/kaggle/input/adjectives/Adjectives/44. it/MVI_9900.MOV,44. it,44. it::mvi::4,val,.mov,11027576
+/kaggle/input/adjectives/Adjectives/44. it/MVI_0076.MOV,44. it,44. it::mvi::3,train,.mov,13677300
+/kaggle/input/adjectives/Adjectives/44. it/MVI_0014.MOV,44. it,44. it::mvi::1,train,.mov,17450076
+/kaggle/input/adjectives/Adjectives/44. it/MVI_9971.MOV,44. it,44. it::mvi::6,train,.mov,10211768
+/kaggle/input/adjectives/Adjectives/44. it/MVI_0015.MOV,44. it,44. it::mvi::1,train,.mov,15839456
+/kaggle/input/adjectives/Adjectives/44. it/MVI_9939.MOV,44. it,44. it::mvi::5,train,.mov,16217908
+/kaggle/input/adjectives/Adjectives/44. it/MVI_9969.MOV,44. it,44. it::mvi::6,train,.mov,9579744
+/kaggle/input/adjectives/Adjectives/44. it/MVI_0026.MOV,44. it,44. it::mvi::2,test,.mov,9594284
+/kaggle/input/adjectives/Adjectives/45. we/MVI_0029.MOV,45. we,45. we::mvi::2,test,.mov,14049044
+/kaggle/input/adjectives/Adjectives/45. we/MVI_9941.MOV,45. we,45. we::mvi::5,train,.mov,18140248
+/kaggle/input/adjectives/Adjectives/45. we/MVI_0019.MOV,45. we,45. we::mvi::1,train,.mov,18491404
+/kaggle/input/adjectives/Adjectives/45. we/MVI_9940.MOV,45. we,45. we::mvi::5,train,.mov,16805032
+/kaggle/input/adjectives/Adjectives/45. we/MVI_0079.MOV,45. we,45. we::mvi::3,train,.mov,16195504
+/kaggle/input/adjectives/Adjectives/45. we/MVI_9903.MOV,45. we,45. we::mvi::4,val,.mov,11871912
+/kaggle/input/adjectives/Adjectives/45. we/MVI_0018.MOV,45. we,45. we::mvi::1,train,.mov,18103388
+/kaggle/input/adjectives/Adjectives/45. we/MVI_9973.MOV,45. we,45. we::mvi::6,train,.mov,9984516
+/kaggle/input/adjectives/Adjectives/45. we/MVI_9942.MOV,45. we,45. we::mvi::5,train,.mov,17033936
+/kaggle/input/adjectives/Adjectives/45. we/MVI_9901.MOV,45. we,45. we::mvi::4,val,.mov,10369052
+/kaggle/input/adjectives/Adjectives/45. we/MVI_0020.MOV,45. we,45. we::mvi::1,train,.mov,17629664
+/kaggle/input/adjectives/Adjectives/45. we/MVI_0027.MOV,45. we,45. we::mvi::2,test,.mov,11526160
+/kaggle/input/adjectives/Adjectives/45. we/MVI_9974.MOV,45. we,45. we::mvi::6,train,.mov,10432336
+/kaggle/input/adjectives/Adjectives/45. we/MVI_9902.MOV,45. we,45. we::mvi::4,val,.mov,11941448
+/kaggle/input/adjectives/Adjectives/45. we/MVI_0028.MOV,45. we,45. we::mvi::2,test,.mov,12858108
+/kaggle/input/adjectives/Adjectives/45. we/MVI_0080.MOV,45. we,45. we::mvi::3,train,.mov,16514764
+/kaggle/input/adjectives/Adjectives/45. we/MVI_9943.MOV,45. we,45. we::mvi::5,train,.mov,19457192
+/kaggle/input/adjectives/Adjectives/45. we/MVI_0081.MOV,45. we,45. we::mvi::3,train,.mov,17413344
+/kaggle/input/adjectives/Adjectives/45. we/MVI_9904.MOV,45. we,45. we::mvi::4,val,.mov,12543064
+/kaggle/input/adjectives/Adjectives/45. we/MVI_9972.MOV,45. we,45. we::mvi::6,train,.mov,11581144
+/kaggle/input/adjectives/Adjectives/45. we/MVI_0017.MOV,45. we,45. we::mvi::1,train,.mov,18483512
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_9976.MOV,46. you (plural),46. you (plural)::mvi::6,train,.mov,16225196
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_0031.MOV,46. you (plural),46. you (plural)::mvi::2,test,.mov,13909824
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_0021.MOV,46. you (plural),46. you (plural)::mvi::1,train,.mov,16977264
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_0083.MOV,46. you (plural),46. you (plural)::mvi::3,train,.mov,17630736
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_0024.MOV,46. you (plural),46. you (plural)::mvi::1,train,.mov,16231512
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_9908.MOV,46. you (plural),46. you (plural)::mvi::4,val,.mov,11417224
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_9909.MOV,46. you (plural),46. you (plural)::mvi::4,val,.mov,12701436
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_9945.MOV,46. you (plural),46. you (plural)::mvi::5,train,.mov,15634960
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_0023.MOV,46. you (plural),46. you (plural)::mvi::1,train,.mov,20330472
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_9948.MOV,46. you (plural),46. you (plural)::mvi::5,train,.mov,20237944
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_9907.MOV,46. you (plural),46. you (plural)::mvi::4,val,.mov,11775552
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_0084.MOV,46. you (plural),46. you (plural)::mvi::3,train,.mov,16092048
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_9975.MOV,46. you (plural),46. you (plural)::mvi::6,train,.mov,16233448
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_0030.MOV,46. you (plural),46. you (plural)::mvi::2,test,.mov,13793892
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_9947.MOV,46. you (plural),46. you (plural)::mvi::5,train,.mov,13826456
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_0032.MOV,46. you (plural),46. you (plural)::mvi::2,test,.mov,12685680
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_9905.MOV,46. you (plural),46. you (plural)::mvi::4,val,.mov,12458360
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_9977.MOV,46. you (plural),46. you (plural)::mvi::6,train,.mov,17667540
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_0082.MOV,46. you (plural),46. you (plural)::mvi::3,train,.mov,15803492
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_0022.MOV,46. you (plural),46. you (plural)::mvi::1,train,.mov,18404240
+/kaggle/input/adjectives/Adjectives/46. you (plural)/MVI_9946.MOV,46. you (plural),46. you (plural)::mvi::5,train,.mov,18901940
+/kaggle/input/adjectives/Adjectives/47. they/MVI_0088.MOV,47. they,47. they::mvi::3,train,.mov,15677940
+/kaggle/input/adjectives/Adjectives/47. they/MVI_9911.MOV,47. they,47. they::mvi::4,val,.mov,15717096
+/kaggle/input/adjectives/Adjectives/47. they/MVI_0033.MOV,47. they,47. they::mvi::2,test,.mov,11805124
+/kaggle/input/adjectives/Adjectives/47. they/MVI_9980.MOV,47. they,47. they::mvi::6,train,.mov,11997584
+/kaggle/input/adjectives/Adjectives/47. they/MVI_0025.MOV,47. they,47. they::mvi::1,train,.mov,17163588
+/kaggle/input/adjectives/Adjectives/47. they/MVI_9979.MOV,47. they,47. they::mvi::6,train,.mov,12479848
+/kaggle/input/adjectives/Adjectives/47. they/MVI_0085.MOV,47. they,47. they::mvi::3,train,.mov,14999588
+/kaggle/input/adjectives/Adjectives/47. they/MVI_0087.MOV,47. they,47. they::mvi::3,train,.mov,14631084
+/kaggle/input/adjectives/Adjectives/47. they/MVI_9913.MOV,47. they,47. they::mvi::4,val,.mov,13826704
+/kaggle/input/adjectives/Adjectives/47. they/MVI_9952.MOV,47. they,47. they::mvi::5,train,.mov,22288860
+/kaggle/input/adjectives/Adjectives/47. they/MVI_0034.MOV,47. they,47. they::mvi::2,test,.mov,12347492
+/kaggle/input/adjectives/Adjectives/47. they/MVI_0027.MOV,47. they,47. they::mvi::1,train,.mov,15935600
+/kaggle/input/adjectives/Adjectives/47. they/MVI_0035.MOV,47. they,47. they::mvi::2,test,.mov,11630644
+/kaggle/input/adjectives/Adjectives/47. they/MVI_9950.MOV,47. they,47. they::mvi::5,train,.mov,19161080
+/kaggle/input/adjectives/Adjectives/47. they/MVI_0028.MOV,47. they,47. they::mvi::1,train,.mov,18000332
+/kaggle/input/adjectives/Adjectives/47. they/MVI_9951.MOV,47. they,47. they::mvi::5,train,.mov,21860056
+/kaggle/input/adjectives/Adjectives/47. they/MVI_9910.MOV,47. they,47. they::mvi::4,val,.mov,13364204
+/kaggle/input/adjectives/Adjectives/47. they/MVI_9953.MOV,47. they,47. they::mvi::5,train,.mov,21054832
+/kaggle/input/adjectives/Adjectives/47. they/MVI_9912.MOV,47. they,47. they::mvi::4,val,.mov,13995704
+/kaggle/input/adjectives/Adjectives/47. they/MVI_9981.MOV,47. they,47. they::mvi::6,train,.mov,12221352
+/kaggle/input/adjectives/Adjectives/47. they/MVI_0026.MOV,47. they,47. they::mvi::1,train,.mov,17581968
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_9954.MOV,48. hello,48. hello::mvi::5,train,.mov,15017704
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_9957.MOV,48. hello,48. hello::mvi::5,train,.mov,17157044
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_0031.MOV,48. hello,48. hello::mvi::1,train,.mov,14024412
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_0091.MOV,48. hello,48. hello::mvi::3,train,.mov,17840700
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_0029.MOV,48. hello,48. hello::mvi::1,train,.mov,13712892
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_9915.MOV,48. hello,48. hello::mvi::4,val,.mov,11495296
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_0037.MOV,48. hello,48. hello::mvi::2,test,.mov,11087200
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_9982.MOV,48. hello,48. hello::mvi::6,train,.mov,11152784
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_9917.MOV,48. hello,48. hello::mvi::4,val,.mov,10892712
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_0030.MOV,48. hello,48. hello::mvi::1,train,.mov,16163032
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_0038.MOV,48. hello,48. hello::mvi::2,test,.mov,12696984
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_9916.MOV,48. hello,48. hello::mvi::4,val,.mov,11123560
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_0032.MOV,48. hello,48. hello::mvi::1,train,.mov,13252996
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_0090.MOV,48. hello,48. hello::mvi::3,train,.mov,15525968
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_9956.MOV,48. hello,48. hello::mvi::5,train,.mov,16523716
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_0039.MOV,48. hello,48. hello::mvi::2,test,.mov,11769880
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_0089.MOV,48. hello,48. hello::mvi::3,train,.mov,15163632
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_9983.MOV,48. hello,48. hello::mvi::6,train,.mov,11626756
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_9984.MOV,48. hello,48. hello::mvi::6,train,.mov,10178964
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_9955.MOV,48. hello,48. hello::mvi::5,train,.mov,18231040
+/kaggle/input/adjectives/Adjectives/48. Hello/MVI_9914.MOV,48. hello,48. hello::mvi::4,val,.mov,11887660
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_0041.MOV,49. how are you,49. how are you::mvi::2,test,.mov,16075112
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_9986.MOV,49. how are you,49. how are you::mvi::6,train,.mov,15023992
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_0033.MOV,49. how are you,49. how are you::mvi::1,train,.mov,17783072
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_9921.MOV,49. how are you,49. how are you::mvi::4,val,.mov,14496220
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_0094.MOV,49. how are you,49. how are you::mvi::3,train,.mov,21208116
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_9960.MOV,49. how are you,49. how are you::mvi::5,train,.mov,18821164
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_0040.MOV,49. how are you,49. how are you::mvi::2,test,.mov,13717040
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_9985.MOV,49. how are you,49. how are you::mvi::6,train,.mov,14960424
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_9919.MOV,49. how are you,49. how are you::mvi::4,val,.mov,15872056
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_9987.MOV,49. how are you,49. how are you::mvi::6,train,.mov,15084316
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_0034.MOV,49. how are you,49. how are you::mvi::1,train,.mov,20164592
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_9959.MOV,49. how are you,49. how are you::mvi::5,train,.mov,19364088
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_0035.MOV,49. how are you,49. how are you::mvi::1,train,.mov,21226160
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_9962.MOV,49. how are you,49. how are you::mvi::5,train,.mov,20408596
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_9918.MOV,49. how are you,49. how are you::mvi::4,val,.mov,14978068
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_0093.MOV,49. how are you,49. how are you::mvi::3,train,.mov,22458744
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_0042.MOV,49. how are you,49. how are you::mvi::2,test,.mov,14966400
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_0092.MOV,49. how are you,49. how are you::mvi::3,train,.mov,18421760
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_9920.MOV,49. how are you,49. how are you::mvi::4,val,.mov,15604660
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_9961.MOV,49. how are you,49. how are you::mvi::5,train,.mov,20039748
+/kaggle/input/adjectives/Adjectives/49. How are you/MVI_0036.MOV,49. how are you,49. how are you::mvi::1,train,.mov,21012572
+/kaggle/input/adjectives/Adjectives/5. Beautiful/MVI_9570.MOV,5. beautiful,5. beautiful::mvi::1,test,.mov,17906560
+/kaggle/input/adjectives/Adjectives/5. Beautiful/MVI_9723.MOV,5. beautiful,5. beautiful::mvi::2,val,.mov,16335604
+/kaggle/input/adjectives/Adjectives/5. Beautiful/MVI_9569.MOV,5. beautiful,5. beautiful::mvi::1,test,.mov,14677548
+/kaggle/input/adjectives/Adjectives/5. Beautiful/MVI_9724.MOV,5. beautiful,5. beautiful::mvi::2,val,.mov,15499052
+/kaggle/input/adjectives/Adjectives/5. Beautiful/MVI_9571.MOV,5. beautiful,5. beautiful::mvi::1,test,.mov,13933976
+/kaggle/input/adjectives/Adjectives/5. Beautiful/MVI_9726.MOV,5. beautiful,5. beautiful::mvi::2,val,.mov,15019876
+/kaggle/input/adjectives/Adjectives/5. Beautiful/MVI_9572.MOV,5. beautiful,5. beautiful::mvi::1,test,.mov,11836468
+/kaggle/input/adjectives/Adjectives/5. Beautiful/MVI_9573.MOV,5. beautiful,5. beautiful::mvi::1,test,.mov,15119008
+/kaggle/input/adjectives/Adjectives/5. Beautiful/MVI_9725.MOV,5. beautiful,5. beautiful::mvi::2,val,.mov,15549628
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_9988.MOV,50. alright,50. alright::mvi::6,train,.mov,11582224
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_0097.MOV,50. alright,50. alright::mvi::3,train,.mov,19412872
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_9990.MOV,50. alright,50. alright::mvi::6,train,.mov,11812500
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_0037.MOV,50. alright,50. alright::mvi::1,train,.mov,16096940
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_0096.MOV,50. alright,50. alright::mvi::3,train,.mov,18469712
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_0040.MOV,50. alright,50. alright::mvi::1,train,.mov,17686404
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_0045.MOV,50. alright,50. alright::mvi::2,test,.mov,14423036
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_9925.MOV,50. alright,50. alright::mvi::4,val,.mov,11702908
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_9923.MOV,50. alright,50. alright::mvi::4,val,.mov,12045128
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_9963.MOV,50. alright,50. alright::mvi::5,train,.mov,16463604
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_0043.MOV,50. alright,50. alright::mvi::2,test,.mov,12645996
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_9965.MOV,50. alright,50. alright::mvi::5,train,.mov,16728524
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_9989.MOV,50. alright,50. alright::mvi::6,train,.mov,13194580
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_0038.MOV,50. alright,50. alright::mvi::1,train,.mov,18489448
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_0095.MOV,50. alright,50. alright::mvi::3,train,.mov,14019940
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_9966.MOV,50. alright,50. alright::mvi::5,train,.mov,15564784
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_9926.MOV,50. alright,50. alright::mvi::4,val,.mov,11339420
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_0044.MOV,50. alright,50. alright::mvi::2,test,.mov,13107204
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_0039.MOV,50. alright,50. alright::mvi::1,train,.mov,17655976
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_9924.MOV,50. alright,50. alright::mvi::4,val,.mov,12177352
+/kaggle/input/adjectives/Adjectives/50. Alright/MVI_9964.MOV,50. alright,50. alright::mvi::5,train,.mov,18620960
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_0047.MOV,51. good morning,51. good morning::mvi::1,train,.mov,13386028
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_9934.MOV,51. good morning,51. good morning::mvi::3,train,.mov,12547096
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_9935.MOV,51. good morning,51. good morning::mvi::3,train,.mov,10835472
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_0048.MOV,51. good morning,51. good morning::mvi::1,train,.mov,9008624
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_0099.MOV,51. good morning,51. good morning::mvi::2,test,.mov,14863564
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_9970.MOV,51. good morning,51. good morning::mvi::4,val,.mov,17746444
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_9993.MOV,51. good morning,51. good morning::mvi::5,train,.mov,14055496
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_0045.MOV,51. good morning,51. good morning::mvi::1,train,.mov,19834888
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_0098.MOV,51. good morning,51. good morning::mvi::2,test,.mov,14729828
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_9991.MOV,51. good morning,51. good morning::mvi::5,train,.mov,12696444
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_0100.MOV,51. good morning,51. good morning::mvi::2,test,.mov,14161452
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_0043.MOV,51. good morning,51. good morning::mvi::1,train,.mov,18284864
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_0046.MOV,51. good morning,51. good morning::mvi::1,train,.mov,14090892
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_9932.MOV,51. good morning,51. good morning::mvi::3,train,.mov,12642280
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_9968.MOV,51. good morning,51. good morning::mvi::4,val,.mov,14908976
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_9992.MOV,51. good morning,51. good morning::mvi::5,train,.mov,12716592
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_9933.MOV,51. good morning,51. good morning::mvi::3,train,.mov,11981744
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_0042.MOV,51. good morning,51. good morning::mvi::1,train,.mov,18834564
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_0044.MOV,51. good morning,51. good morning::mvi::1,train,.mov,18754164
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_9971.MOV,51. good morning,51. good morning::mvi::4,val,.mov,16063788
+/kaggle/input/adjectives/Adjectives/51. Good Morning/MVI_9969.MOV,51. good morning,51. good morning::mvi::4,val,.mov,17269852
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_9938.MOV,52. good afternoon,52. good afternoon::mvi::5,train,.mov,11519400
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_0049.MOV,52. good afternoon,52. good afternoon::mvi::3,train,.mov,12419776
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_0047.MOV,52. good afternoon,52. good afternoon::mvi::3,train,.mov,18951616
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_0050.MOV,52. good afternoon,52. good afternoon::mvi::3,train,.mov,12820960
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_0048.MOV,52. good afternoon,52. good afternoon::mvi::3,train,.mov,18889788
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_0050_ (2).MOV,52. good afternoon,52. good afternoon::mvi::na::2,test,.mov,19852512
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_0102.MOV,52. good afternoon,52. good afternoon::mvi::4,train,.mov,16766340
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_0101.MOV,52. good afternoon,52. good afternoon::mvi::4,train,.mov,15395292
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_9936.MOV,52. good afternoon,52. good afternoon::mvi::5,train,.mov,15124680
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_9973.MOV,52. good afternoon,52. good afternoon::mvi::6,val,.mov,13603548
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_0046.MOV,52. good afternoon,52. good afternoon::mvi::3,train,.mov,19870724
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_9975.MOV,52. good afternoon,52. good afternoon::mvi::6,val,.mov,13171044
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_9937.MOV,52. good afternoon,52. good afternoon::mvi::5,train,.mov,12423052
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_0050_ (1).MOV,52. good afternoon,52. good afternoon::mvi::na::1,train,.mov,19217080
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_9974.MOV,52. good afternoon,52. good afternoon::mvi::6,val,.mov,16662268
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_0051.MOV,52. good afternoon,52. good afternoon::mvi::3,train,.mov,12670836
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_9994.MOV,52. good afternoon,52. good afternoon::mvi::7,train,.mov,12089632
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_0103.MOV,52. good afternoon,52. good afternoon::mvi::4,train,.mov,16341852
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_9995.MOV,52. good afternoon,52. good afternoon::mvi::7,train,.mov,13904400
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_9972.MOV,52. good afternoon,52. good afternoon::mvi::6,val,.mov,13595220
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_9996.MOV,52. good afternoon,52. good afternoon::mvi::7,train,.mov,13136836
+/kaggle/input/adjectives/Adjectives/52. Good afternoon/MVI_9939.MOV,52. good afternoon,52. good afternoon::mvi::5,train,.mov,10414124
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_005_4 (2).MOV,53. good evening,53. good evening::mvi::na::2,train,.mov,19636972
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_9976.MOV,53. good evening,53. good evening::mvi::8,train,.mov,17151592
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_9941.MOV,53. good evening,53. good evening::mvi::7,val,.mov,13273068
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_9940.MOV,53. good evening,53. good evening::mvi::7,val,.mov,12609328
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_0052.MOV,53. good evening,53. good evening::mvi::5,train,.mov,11742468
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_0106.MOV,53. good evening,53. good evening::mvi::6,train,.mov,17008940
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_9978.MOV,53. good evening,53. good evening::mvi::8,train,.mov,17162092
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_9999.MOV,53. good evening,53. good evening::mvi::9,train,.mov,12258092
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_9979.MOV,53. good evening,53. good evening::mvi::8,train,.mov,16094804
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_0001.MOV,53. good evening,53. good evening::mvi::4,train,.mov,12004484
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_0054.MOV,53. good evening,53. good evening::mvi::5,train,.mov,14301260
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_0107.MOV,53. good evening,53. good evening::mvi::6,train,.mov,16752008
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_0055.MOV,53. good evening,53. good evening::mvi::5,train,.mov,18629924
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_0105.MOV,53. good evening,53. good evening::mvi::6,train,.mov,15883356
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_005_4 (3).MOV,53. good evening,53. good evening::mvi::na::3,train,.mov,21039632
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_9942.MOV,53. good evening,53. good evening::mvi::7,val,.mov,12820216
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_9977.MOV,53. good evening,53. good evening::mvi::8,train,.mov,17772916
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_005_4 (1).MOV,53. good evening,53. good evening::mvi::na::1,test,.mov,18273152
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_9943.MOV,53. good evening,53. good evening::mvi::7,val,.mov,14905052
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_0053.MOV,53. good evening,53. good evening::mvi::5,train,.mov,14339776
+/kaggle/input/adjectives/Adjectives/53. Good evening/MVI_9998.MOV,53. good evening,53. good evening::mvi::9,train,.mov,11826136
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_005_6.MOV,54. good night,54. good night::mvi_005::1,test,.mov,17823424
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_0108.MOV,54. good night,54. good night::mvi::4,train,.mov,16237872
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_0110.MOV,54. good night,54. good night::mvi::4,train,.mov,17394664
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_0002.MOV,54. good night,54. good night::mvi::2,train,.mov,12249112
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_0057.MOV,54. good night,54. good night::mvi::3,train,.mov,13083788
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_9980.MOV,54. good night,54. good night::mvi::6,train,.mov,18189916
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_9945.MOV,54. good night,54. good night::mvi::5,val,.mov,12863016
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_9982.MOV,54. good night,54. good night::mvi::6,train,.mov,18201676
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_0055.MOV,54. good night,54. good night::mvi::3,train,.mov,12391080
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_0057_.MOV,54. good night,54. good night::mvi::na::1,train,.mov,19968736
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_0109.MOV,54. good night,54. good night::mvi::4,train,.mov,18034828
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_0004.MOV,54. good night,54. good night::mvi::2,train,.mov,13078492
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_0058.MOV,54. good night,54. good night::mvi::3,train,.mov,20040184
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_0059.MOV,54. good night,54. good night::mvi::3,train,.mov,20396176
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_9947.MOV,54. good night,54. good night::mvi::5,val,.mov,13053408
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_0003.MOV,54. good night,54. good night::mvi::2,train,.mov,13043460
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_9944.MOV,54. good night,54. good night::mvi::5,val,.mov,12235448
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_0056.MOV,54. good night,54. good night::mvi::3,train,.mov,13647468
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_9983.MOV,54. good night,54. good night::mvi::6,train,.mov,14444900
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_9981.MOV,54. good night,54. good night::mvi::6,train,.mov,14532164
+/kaggle/input/adjectives/Adjectives/54. Good night/MVI_9946.MOV,54. good night,54. good night::mvi::5,val,.mov,12450940
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_0060.MOV,55. thank you,55. thank you::mvi::3,train,.mov,12557288
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_9986.MOV,55. thank you,55. thank you::mvi::6,train,.mov,12043648
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_9948.MOV,55. thank you,55. thank you::mvi::5,val,.mov,11864028
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_0112.MOV,55. thank you,55. thank you::mvi::4,train,.mov,16705156
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_0008.MOV,55. thank you,55. thank you::mvi::2,train,.mov,12309444
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_0007.MOV,55. thank you,55. thank you::mvi::2,train,.mov,12163160
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_9949.MOV,55. thank you,55. thank you::mvi::5,val,.mov,12565248
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_9985.MOV,55. thank you,55. thank you::mvi::6,train,.mov,14458472
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_0006.MOV,55. thank you,55. thank you::mvi::2,train,.mov,11611048
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_0113.MOV,55. thank you,55. thank you::mvi::4,train,.mov,17971356
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_0060_.MOV,55. thank you,55. thank you::mvi::na::1,test,.mov,17902844
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_0058.MOV,55. thank you,55. thank you::mvi::3,train,.mov,13534252
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_9987.MOV,55. thank you,55. thank you::mvi::6,train,.mov,13638524
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_0059.MOV,55. thank you,55. thank you::mvi::3,train,.mov,12591164
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_9950.MOV,55. thank you,55. thank you::mvi::5,val,.mov,11518864
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_0062.MOV,55. thank you,55. thank you::mvi::3,train,.mov,17267580
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_0061.MOV,55. thank you,55. thank you::mvi::3,train,.mov,17957432
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_0063.MOV,55. thank you,55. thank you::mvi::3,train,.mov,19074660
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_9951.MOV,55. thank you,55. thank you::mvi::5,val,.mov,12040436
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_0111.MOV,55. thank you,55. thank you::mvi::4,train,.mov,13864876
+/kaggle/input/adjectives/Adjectives/55. Thank you/MVI_9984.MOV,55. thank you,55. thank you::mvi::6,train,.mov,13244668
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_9954.MOV,56. pleased,56. pleased::mvi::4,val,.mov,10270452
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_0066.MOV,56. pleased,56. pleased::mvi::2,train,.mov,17668432
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_9988.MOV,56. pleased,56. pleased::mvi::5,train,.mov,13781052
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_9990.MOV,56. pleased,56. pleased::mvi::5,train,.mov,14962320
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_0065.MOV,56. pleased,56. pleased::mvi::2,train,.mov,18097368
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_0010.MOV,56. pleased,56. pleased::mvi::1,test,.mov,11746416
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_0114.MOV,56. pleased,56. pleased::mvi::3,train,.mov,13743092
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_9991.MOV,56. pleased,56. pleased::mvi::5,train,.mov,14514224
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_9989.MOV,56. pleased,56. pleased::mvi::5,train,.mov,16958104
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_0115.MOV,56. pleased,56. pleased::mvi::3,train,.mov,16665660
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_9952.MOV,56. pleased,56. pleased::mvi::4,val,.mov,11610072
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_0116.MOV,56. pleased,56. pleased::mvi::3,train,.mov,14508756
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_0009.MOV,56. pleased,56. pleased::mvi::1,test,.mov,12262732
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_0062.MOV,56. pleased,56. pleased::mvi::2,train,.mov,11459552
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_0061.MOV,56. pleased,56. pleased::mvi::2,train,.mov,12453476
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_0063.MOV,56. pleased,56. pleased::mvi::2,train,.mov,12569200
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_0067.MOV,56. pleased,56. pleased::mvi::2,train,.mov,16903128
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_9953.MOV,56. pleased,56. pleased::mvi::4,val,.mov,10669200
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_0068.MOV,56. pleased,56. pleased::mvi::2,train,.mov,19075048
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_0011.MOV,56. pleased,56. pleased::mvi::1,test,.mov,11570928
+/kaggle/input/adjectives/Adjectives/56. Pleased/MVI_9955.MOV,56. pleased,56. pleased::mvi::4,val,.mov,9558380
+/kaggle/input/adjectives/Adjectives/6. Ugly/MVI_9579.MOV,6. ugly,6. ugly::mvi::1,test,.mov,12724264
+/kaggle/input/adjectives/Adjectives/6. Ugly/MVI_9578.MOV,6. ugly,6. ugly::mvi::1,test,.mov,17131312
+/kaggle/input/adjectives/Adjectives/6. Ugly/MVI_9845.MOV,6. ugly,6. ugly::mvi::2,val,.mov,12972184
+/kaggle/input/adjectives/Adjectives/6. Ugly/MVI_9846.MOV,6. ugly,6. ugly::mvi::2,val,.mov,12894516
+/kaggle/input/adjectives/Adjectives/6. Ugly/MVI_9844.MOV,6. ugly,6. ugly::mvi::2,val,.mov,11418436
+/kaggle/input/adjectives/Adjectives/6. Ugly/MVI_9576.MOV,6. ugly,6. ugly::mvi::1,test,.mov,12783020
+/kaggle/input/adjectives/Adjectives/6. Ugly/MVI_9847.MOV,6. ugly,6. ugly::mvi::2,val,.mov,11313880
+/kaggle/input/adjectives/Adjectives/6. Ugly/MVI_9577.MOV,6. ugly,6. ugly::mvi::1,test,.mov,15146512
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_4588.MOV,66. sunday,66. sunday::mvi::1,train,.mov,15508236
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_9140.MP4,66. sunday,66. sunday::mvi::4,train,.mp4,11212350
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_4586.MOV,66. sunday,66. sunday::mvi::1,train,.mov,15834656
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_5006.MOV,66. sunday,66. sunday::mvi::2,val,.mov,10702268
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_5442.MOV,66. sunday,66. sunday::mvi::3,test,.mov,11113000
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_5445.MOV,66. sunday,66. sunday::mvi::3,test,.mov,12281248
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_5443.MOV,66. sunday,66. sunday::mvi::3,test,.mov,12260820
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_4590.MOV,66. sunday,66. sunday::mvi::1,train,.mov,12550444
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_5444.MOV,66. sunday,66. sunday::mvi::3,test,.mov,13157712
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_5005.MOV,66. sunday,66. sunday::mvi::2,val,.mov,11182580
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_9139.MP4,66. sunday,66. sunday::mvi::4,train,.mp4,11591732
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_9141.MP4,66. sunday,66. sunday::mvi::4,train,.mp4,10682212
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_5008.MOV,66. sunday,66. sunday::mvi::2,val,.mov,9953884
+/kaggle/input/adjectives/Adjectives/66. Sunday/MVI_4589.MOV,66. sunday,66. sunday::mvi::1,train,.mov,13263988
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_5009.MOV,67. monday,67. monday::mvi::2,val,.mov,10160172
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_9142.MP4,67. monday,67. monday::mvi::4,train,.mp4,9488659
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_5011.MOV,67. monday,67. monday::mvi::2,val,.mov,11755336
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_4593.MOV,67. monday,67. monday::mvi::1,train,.mov,13211388
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_5449.MOV,67. monday,67. monday::mvi::3,test,.mov,11284588
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_5010.MOV,67. monday,67. monday::mvi::2,val,.mov,10299596
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_9144.MP4,67. monday,67. monday::mvi::4,train,.mp4,8725432
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_4592.MOV,67. monday,67. monday::mvi::1,train,.mov,11866584
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_4594.MOV,67. monday,67. monday::mvi::1,train,.mov,13051196
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_9143.MP4,67. monday,67. monday::mvi::4,train,.mp4,10437137
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_5447.MOV,67. monday,67. monday::mvi::3,test,.mov,11785052
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_4591.MOV,67. monday,67. monday::mvi::1,train,.mov,12494544
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_5446.MOV,67. monday,67. monday::mvi::3,test,.mov,11587012
+/kaggle/input/adjectives/Adjectives/67. Monday/MVI_5448.MOV,67. monday,67. monday::mvi::3,test,.mov,11971288
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_9146.MP4,68. tuesday,68. tuesday::mvi::4,train,.mp4,9577716
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_4598.MOV,68. tuesday,68. tuesday::mvi::1,train,.mov,15495868
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_9147.MP4,68. tuesday,68. tuesday::mvi::4,train,.mp4,9347979
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_4597.MOV,68. tuesday,68. tuesday::mvi::1,train,.mov,13661296
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_5450.MOV,68. tuesday,68. tuesday::mvi::3,test,.mov,11368252
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_5014.MOV,68. tuesday,68. tuesday::mvi::2,val,.mov,11795032
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_5451.MOV,68. tuesday,68. tuesday::mvi::3,test,.mov,11267044
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_5453.MOV,68. tuesday,68. tuesday::mvi::3,test,.mov,12503084
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_9145.MP4,68. tuesday,68. tuesday::mvi::4,train,.mp4,10079977
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_5013.MOV,68. tuesday,68. tuesday::mvi::2,val,.mov,11507248
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_4596.MOV,68. tuesday,68. tuesday::mvi::1,train,.mov,12103664
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_5452.MOV,68. tuesday,68. tuesday::mvi::3,test,.mov,10815672
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_5012.MOV,68. tuesday,68. tuesday::mvi::2,val,.mov,11102684
+/kaggle/input/adjectives/Adjectives/68. Tuesday/MVI_4595.MOV,68. tuesday,68. tuesday::mvi::1,train,.mov,13013340
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_9148.MP4,69. wednesday,69. wednesday::mvi::4,train,.mp4,9379365
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_5455.MOV,69. wednesday,69. wednesday::mvi::3,test,.mov,11799856
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_9150.MP4,69. wednesday,69. wednesday::mvi::4,train,.mp4,8737259
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_9149.MP4,69. wednesday,69. wednesday::mvi::4,train,.mp4,9369989
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_4600.MOV,69. wednesday,69. wednesday::mvi::1,train,.mov,11881404
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_4601.MOV,69. wednesday,69. wednesday::mvi::1,train,.mov,12344844
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_5016.MOV,69. wednesday,69. wednesday::mvi::2,val,.mov,11069752
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_4599.MOV,69. wednesday,69. wednesday::mvi::1,train,.mov,11033480
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_5017.MOV,69. wednesday,69. wednesday::mvi::2,val,.mov,11052768
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_5457.MOV,69. wednesday,69. wednesday::mvi::3,test,.mov,9821408
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_4602.MOV,69. wednesday,69. wednesday::mvi::1,train,.mov,10818724
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_5456.MOV,69. wednesday,69. wednesday::mvi::3,test,.mov,11926224
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_5018.MOV,69. wednesday,69. wednesday::mvi::2,val,.mov,11109704
+/kaggle/input/adjectives/Adjectives/69. Wednesday/MVI_5454.MOV,69. wednesday,69. wednesday::mvi::3,test,.mov,12519952
+/kaggle/input/adjectives/Adjectives/7. Deaf/MVI_9848.MOV,7. deaf,7. deaf::mvi::2,val,.mov,11378220
+/kaggle/input/adjectives/Adjectives/7. Deaf/MVI_9851.MOV,7. deaf,7. deaf::mvi::2,val,.mov,10913288
+/kaggle/input/adjectives/Adjectives/7. Deaf/MVI_9583.MOV,7. deaf,7. deaf::mvi::1,test,.mov,12148956
+/kaggle/input/adjectives/Adjectives/7. Deaf/MVI_9849.MOV,7. deaf,7. deaf::mvi::2,val,.mov,12367784
+/kaggle/input/adjectives/Adjectives/7. Deaf/MVI_9582.MOV,7. deaf,7. deaf::mvi::1,test,.mov,12780176
+/kaggle/input/adjectives/Adjectives/7. Deaf/MVI_9581.MOV,7. deaf,7. deaf::mvi::1,test,.mov,13592260
+/kaggle/input/adjectives/Adjectives/7. Deaf/MVI_9580.MOV,7. deaf,7. deaf::mvi::1,test,.mov,13419756
+/kaggle/input/adjectives/Adjectives/7. Deaf/MVI_9850.MOV,7. deaf,7. deaf::mvi::2,val,.mov,12548464
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_5020.MOV,70. thursday,70. thursday::mvi::2,val,.mov,10860624
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_9153.MP4,70. thursday,70. thursday::mvi::4,train,.mp4,8864896
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_5461.MOV,70. thursday,70. thursday::mvi::3,test,.mov,11138944
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_4606.MOV,70. thursday,70. thursday::mvi::1,train,.mov,14944004
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_4603.MOV,70. thursday,70. thursday::mvi::1,train,.mov,13743492
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_5460.MOV,70. thursday,70. thursday::mvi::3,test,.mov,10201104
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_4605.MOV,70. thursday,70. thursday::mvi::1,train,.mov,12757960
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_5458.MOV,70. thursday,70. thursday::mvi::3,test,.mov,11555792
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_5021.MOV,70. thursday,70. thursday::mvi::2,val,.mov,12223448
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_5019.MOV,70. thursday,70. thursday::mvi::2,val,.mov,11531352
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_4604.MOV,70. thursday,70. thursday::mvi::1,train,.mov,13883692
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_9151.MP4,70. thursday,70. thursday::mvi::4,train,.mp4,9851437
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_5459.MOV,70. thursday,70. thursday::mvi::3,test,.mov,10553228
+/kaggle/input/adjectives/Adjectives/70. Thursday/MVI_9152.MP4,70. thursday,70. thursday::mvi::4,train,.mp4,9492367
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_5464.MOV,71. friday,71. friday::mvi::4,test,.mov,11075176
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_5462.MOV,71. friday,71. friday::mvi::4,test,.mov,9716156
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_5463.MOV,71. friday,71. friday::mvi::4,test,.mov,11529848
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_5026.MOV,71. friday,71. friday::mvi::3,val,.mov,10429020
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_5465.MOV,71. friday,71. friday::mvi::4,test,.mov,12215672
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_4608.MOV,71. friday,71. friday::mvi::1,train,.mov,13387328
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_9156.MP4,71. friday,71. friday::mvi::5,train,.mp4,9939162
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_4607.MOV,71. friday,71. friday::mvi::1,train,.mov,12282728
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_5023.MOV,71. friday,71. friday::mvi::2,train,.mov,10192560
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_4610.MOV,71. friday,71. friday::mvi::1,train,.mov,11985084
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_9154.MP4,71. friday,71. friday::mvi::5,train,.mp4,11559897
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_5022.MOV,71. friday,71. friday::mvi::2,train,.mov,9965572
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_9155.MP4,71. friday,71. friday::mvi::5,train,.mp4,9496212
+/kaggle/input/adjectives/Adjectives/71. Friday/MVI_4609.MOV,71. friday,71. friday::mvi::1,train,.mov,12476720
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_4612.MOV,72. saturday,72. saturday::mvi::1,train,.mov,12669996
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_9158.MP4,72. saturday,72. saturday::mvi::4,train,.mp4,10061183
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_5469.MOV,72. saturday,72. saturday::mvi::3,test,.mov,11424016
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_9157.MP4,72. saturday,72. saturday::mvi::4,train,.mp4,9477320
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_4614.MOV,72. saturday,72. saturday::mvi::1,train,.mov,13250940
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_9159.MP4,72. saturday,72. saturday::mvi::4,train,.mp4,10293683
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_5030.MOV,72. saturday,72. saturday::mvi::2,val,.mov,10079060
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_4611.MOV,72. saturday,72. saturday::mvi::1,train,.mov,13353184
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_4613.MOV,72. saturday,72. saturday::mvi::1,train,.mov,12213708
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_5467.MOV,72. saturday,72. saturday::mvi::3,test,.mov,11252420
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_5466.MOV,72. saturday,72. saturday::mvi::3,test,.mov,12582320
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_5468.MOV,72. saturday,72. saturday::mvi::3,test,.mov,12060580
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_5028.MOV,72. saturday,72. saturday::mvi::2,val,.mov,10520120
+/kaggle/input/adjectives/Adjectives/72. Saturday/MVI_5027.MOV,72. saturday,72. saturday::mvi::2,val,.mov,9462336
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_4616.MOV,73. today,73. today::mvi::1,train,.mov,11774984
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_5472.MOV,73. today,73. today::mvi::3,test,.mov,11216776
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_9162.MP4,73. today,73. today::mvi::4,train,.mp4,8856764
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_5032.MOV,73. today,73. today::mvi::2,val,.mov,8691228
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_9160.MP4,73. today,73. today::mvi::4,train,.mp4,10233532
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_4617.MOV,73. today,73. today::mvi::1,train,.mov,10530160
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_5471.MOV,73. today,73. today::mvi::3,test,.mov,10685200
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_5033.MOV,73. today,73. today::mvi::2,val,.mov,9716124
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_4618.MOV,73. today,73. today::mvi::1,train,.mov,9737256
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_5470.MOV,73. today,73. today::mvi::3,test,.mov,9822664
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_9161.MP4,73. today,73. today::mvi::4,train,.mp4,10306149
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_4615.MOV,73. today,73. today::mvi::1,train,.mov,13845120
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_5031.MOV,73. today,73. today::mvi::2,val,.mov,10054648
+/kaggle/input/adjectives/Adjectives/73. Today/MVI_5473.MOV,73. today,73. today::mvi::3,test,.mov,8863336
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_5476.MOV,74. tomorrow,74. tomorrow::mvi::3,test,.mov,9576580
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_9165.MP4,74. tomorrow,74. tomorrow::mvi::4,train,.mp4,12018581
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_5034.MOV,74. tomorrow,74. tomorrow::mvi::2,val,.mov,8490924
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_5477.MOV,74. tomorrow,74. tomorrow::mvi::3,test,.mov,8712416
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_4619.MOV,74. tomorrow,74. tomorrow::mvi::1,train,.mov,11910748
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_5036.MOV,74. tomorrow,74. tomorrow::mvi::2,val,.mov,9597872
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_5035.MOV,74. tomorrow,74. tomorrow::mvi::2,val,.mov,10192688
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_9164.MP4,74. tomorrow,74. tomorrow::mvi::4,train,.mp4,9595068
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_9163.MP4,74. tomorrow,74. tomorrow::mvi::4,train,.mp4,14661402
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_5475.MOV,74. tomorrow,74. tomorrow::mvi::3,test,.mov,8893892
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_4622.MOV,74. tomorrow,74. tomorrow::mvi::1,train,.mov,12115832
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_5474.MOV,74. tomorrow,74. tomorrow::mvi::3,test,.mov,9297060
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_4621.MOV,74. tomorrow,74. tomorrow::mvi::1,train,.mov,10719048
+/kaggle/input/adjectives/Adjectives/74. Tomorrow/MVI_4620.MOV,74. tomorrow,74. tomorrow::mvi::1,train,.mov,12384340
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_4624.MOV,75. yesterday,75. yesterday::mvi::1,train,.mov,10315276
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_5480.MOV,75. yesterday,75. yesterday::mvi::3,test,.mov,8879872
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_9168.MP4,75. yesterday,75. yesterday::mvi::4,train,.mp4,10430321
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_4626.MOV,75. yesterday,75. yesterday::mvi::1,train,.mov,9716064
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_5038.MOV,75. yesterday,75. yesterday::mvi::2,val,.mov,10894288
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_5040.MOV,75. yesterday,75. yesterday::mvi::2,val,.mov,9840668
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_5478.MOV,75. yesterday,75. yesterday::mvi::3,test,.mov,8602088
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_5481.MOV,75. yesterday,75. yesterday::mvi::3,test,.mov,9301740
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_5479.MOV,75. yesterday,75. yesterday::mvi::3,test,.mov,9137608
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_4625.MOV,75. yesterday,75. yesterday::mvi::1,train,.mov,11058132
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_9167.MP4,75. yesterday,75. yesterday::mvi::4,train,.mp4,10296152
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_5037.MOV,75. yesterday,75. yesterday::mvi::2,val,.mov,10979808
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_4623.MOV,75. yesterday,75. yesterday::mvi::1,train,.mov,11018704
+/kaggle/input/adjectives/Adjectives/75. Yesterday/MVI_9166.MP4,75. yesterday,75. yesterday::mvi::4,train,.mp4,8843107
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_4628.MOV,76. week,76. week::mvi::1,train,.mov,14806084
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_5043.MOV,76. week,76. week::mvi::2,val,.mov,10598708
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_5486.MOV,76. week,76. week::mvi::3,test,.mov,9003656
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_5042.MOV,76. week,76. week::mvi::2,val,.mov,10973612
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_4629.MOV,76. week,76. week::mvi::1,train,.mov,12356008
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_5485.MOV,76. week,76. week::mvi::3,test,.mov,10179788
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_9170.MP4,76. week,76. week::mvi::4,train,.mp4,9724147
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_4630.MOV,76. week,76. week::mvi::1,train,.mov,12105496
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_5482.MOV,76. week,76. week::mvi::3,test,.mov,10208496
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_9169.MP4,76. week,76. week::mvi::4,train,.mp4,10674742
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_9171.MP4,76. week,76. week::mvi::4,train,.mp4,10214483
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_4627.MOV,76. week,76. week::mvi::1,train,.mov,15945640
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_5484.MOV,76. week,76. week::mvi::3,test,.mov,8321476
+/kaggle/input/adjectives/Adjectives/76. Week/MVI_5041.MOV,76. week,76. week::mvi::2,val,.mov,11633748
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_5044.MOV,77. month,77. month::mvi::2,val,.mov,10786204
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_9174.MP4,77. month,77. month::mvi::4,train,.mp4,9701620
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_5488.MOV,77. month,77. month::mvi::3,test,.mov,9249280
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_4634.MOV,77. month,77. month::mvi::1,train,.mov,10967376
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_4632.MOV,77. month,77. month::mvi::1,train,.mov,12242632
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_5046.MOV,77. month,77. month::mvi::2,val,.mov,8509448
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_4631.MOV,77. month,77. month::mvi::1,train,.mov,12029676
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_9173.MP4,77. month,77. month::mvi::4,train,.mp4,8354166
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_5489.MOV,77. month,77. month::mvi::3,test,.mov,9758208
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_5045.MOV,77. month,77. month::mvi::2,val,.mov,10676264
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_4633.MOV,77. month,77. month::mvi::1,train,.mov,11302928
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_5490.MOV,77. month,77. month::mvi::3,test,.mov,9754632
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_9172.MP4,77. month,77. month::mvi::4,train,.mp4,8708566
+/kaggle/input/adjectives/Adjectives/77. Month/MVI_5487.MOV,77. month,77. month::mvi::3,test,.mov,8477968
+/kaggle/input/adjectives/Adjectives/78. long/MVI_5267.MOV,78. long,78. long::mvi::3,train,.mov,13483732
+/kaggle/input/adjectives/Adjectives/78. long/MVI_5106.MOV,78. long,78. long::mvi::1,test,.mov,15426360
+/kaggle/input/adjectives/Adjectives/78. long/MVI_9377.MOV,78. long,78. long::mvi::6,train,.mov,11582968
+/kaggle/input/adjectives/Adjectives/78. long/MVI_5107.MOV,78. long,78. long::mvi::1,test,.mov,16103032
+/kaggle/input/adjectives/Adjectives/78. long/MVI_9299.MOV,78. long,78. long::mvi::5,train,.mov,10909884
+/kaggle/input/adjectives/Adjectives/78. long/MVI_9300.MOV,78. long,78. long::mvi::5,train,.mov,12267196
+/kaggle/input/adjectives/Adjectives/78. long/MVI_9217.MOV,78. long,78. long::mvi::4,train,.mov,11473012
+/kaggle/input/adjectives/Adjectives/78. long/MVI_5186.MOV,78. long,78. long::mvi::2,train,.mov,14083200
+/kaggle/input/adjectives/Adjectives/78. long/MVI_9378.MOV,78. long,78. long::mvi::6,train,.mov,11328520
+/kaggle/input/adjectives/Adjectives/78. long/MVI_5108.MOV,78. long,78. long::mvi::1,test,.mov,17967304
+/kaggle/input/adjectives/Adjectives/78. long/MVI_9459.MOV,78. long,78. long::mvi::7,val,.mov,11245324
+/kaggle/input/adjectives/Adjectives/78. long/MVI_5188.MOV,78. long,78. long::mvi::2,train,.mov,11107896
+/kaggle/input/adjectives/Adjectives/78. long/MVI_9218.MOV,78. long,78. long::mvi::4,train,.mov,11598620
+/kaggle/input/adjectives/Adjectives/78. long/MVI_9379.MOV,78. long,78. long::mvi::6,train,.mov,11534736
+/kaggle/input/adjectives/Adjectives/78. long/MVI_5187.MOV,78. long,78. long::mvi::2,train,.mov,13027032
+/kaggle/input/adjectives/Adjectives/78. long/MVI_9219.MOV,78. long,78. long::mvi::4,train,.mov,11814292
+/kaggle/input/adjectives/Adjectives/78. long/MVI_9460.MOV,78. long,78. long::mvi::7,val,.mov,11453988
+/kaggle/input/adjectives/Adjectives/78. long/MVI_9458.MOV,78. long,78. long::mvi::7,val,.mov,12403668
+/kaggle/input/adjectives/Adjectives/78. long/MVI_5266.MOV,78. long,78. long::mvi::3,train,.mov,14969388
+/kaggle/input/adjectives/Adjectives/78. long/MVI_5268.MOV,78. long,78. long::mvi::3,train,.mov,12995708
+/kaggle/input/adjectives/Adjectives/78. long/MVI_9298.MOV,78. long,78. long::mvi::5,train,.mov,11626740
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_4636.MOV,78. year,78. year::mvi::1,train,.mov,11455384
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_5494.MOV,78. year,78. year::mvi::3,val,.mov,10334136
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_5492.MOV,78. year,78. year::mvi::3,val,.mov,9393028
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_9177.MP4,78. year,78. year::mvi::4,train,.mp4,8508984
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_5491.MOV,78. year,78. year::mvi::3,val,.mov,9837988
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_9178.MP4,78. year,78. year::mvi::4,train,.mp4,10240973
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_4635.MOV,78. year,78. year::mvi::1,train,.mov,12054952
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_9176.MP4,78. year,78. year::mvi::4,train,.mp4,9359769
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_4637.MOV,78. year,78. year::mvi::1,train,.mov,10782788
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_4638.MOV,78. year,78. year::mvi::1,train,.mov,10992828
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_5047.MOV,78. year,78. year::mvi::2,test,.mov,9871372
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_5049.MOV,78. year,78. year::mvi::2,test,.mov,10986980
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_5493.MOV,78. year,78. year::mvi::3,val,.mov,8587300
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_9175.MP4,78. year,78. year::mvi::4,train,.mp4,8880862
+/kaggle/input/adjectives/Adjectives/78. Year/MVI_5048.MOV,78. year,78. year::mvi::2,test,.mov,7871516
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_5050.MOV,79. hour,79. hour::mvi::2,val,.mov,10521976
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_5495.MOV,79. hour,79. hour::mvi::3,test,.mov,9736968
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_9179.MP4,79. hour,79. hour::mvi::4,train,.mp4,9884931
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_4639.MOV,79. hour,79. hour::mvi::1,train,.mov,14230816
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_5051.MOV,79. hour,79. hour::mvi::2,val,.mov,11030832
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_5052.MOV,79. hour,79. hour::mvi::2,val,.mov,11251576
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_4640.MOV,79. hour,79. hour::mvi::1,train,.mov,12579312
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_9180.MP4,79. hour,79. hour::mvi::4,train,.mp4,10109446
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_5496.MOV,79. hour,79. hour::mvi::3,test,.mov,11246444
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_5497.MOV,79. hour,79. hour::mvi::3,test,.mov,10952168
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_9181.MP4,79. hour,79. hour::mvi::4,train,.mp4,9378982
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_4642.MOV,79. hour,79. hour::mvi::1,train,.mov,14661204
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_5498.MOV,79. hour,79. hour::mvi::3,test,.mov,10018548
+/kaggle/input/adjectives/Adjectives/79. Hour/MVI_4641.MOV,79. hour,79. hour::mvi::1,train,.mov,11778084
+/kaggle/input/adjectives/Adjectives/79. short/MVI_9302.MOV,79. short,79. short::mvi::5,train,.mov,9541512
+/kaggle/input/adjectives/Adjectives/79. short/MVI_5110.MOV,79. short,79. short::mvi::1,test,.mov,13972276
+/kaggle/input/adjectives/Adjectives/79. short/MVI_9462.MOV,79. short,79. short::mvi::7,val,.mov,11926296
+/kaggle/input/adjectives/Adjectives/79. short/MVI_9220.MOV,79. short,79. short::mvi::4,train,.mov,10945908
+/kaggle/input/adjectives/Adjectives/79. short/MVI_9382.MOV,79. short,79. short::mvi::6,train,.mov,9978168
+/kaggle/input/adjectives/Adjectives/79. short/MVI_9380.MOV,79. short,79. short::mvi::6,train,.mov,11780356
+/kaggle/input/adjectives/Adjectives/79. short/MVI_5192.MOV,79. short,79. short::mvi::2,train,.mov,12753564
+/kaggle/input/adjectives/Adjectives/79. short/MVI_5191.MOV,79. short,79. short::mvi::2,train,.mov,13999332
+/kaggle/input/adjectives/Adjectives/79. short/MVI_9381.MOV,79. short,79. short::mvi::6,train,.mov,10228416
+/kaggle/input/adjectives/Adjectives/79. short/MVI_9303.MOV,79. short,79. short::mvi::5,train,.mov,10743624
+/kaggle/input/adjectives/Adjectives/79. short/MVI_5189.MOV,79. short,79. short::mvi::2,train,.mov,12327988
+/kaggle/input/adjectives/Adjectives/79. short/MVI_9222.MOV,79. short,79. short::mvi::4,train,.mov,10665344
+/kaggle/input/adjectives/Adjectives/79. short/MVI_5111.MOV,79. short,79. short::mvi::1,test,.mov,15199504
+/kaggle/input/adjectives/Adjectives/79. short/MVI_9221.MOV,79. short,79. short::mvi::4,train,.mov,9520240
+/kaggle/input/adjectives/Adjectives/79. short/MVI_5271.MOV,79. short,79. short::mvi::3,train,.mov,11276280
+/kaggle/input/adjectives/Adjectives/79. short/MVI_9461.MOV,79. short,79. short::mvi::7,val,.mov,12586388
+/kaggle/input/adjectives/Adjectives/79. short/MVI_5190.MOV,79. short,79. short::mvi::2,train,.mov,12011776
+/kaggle/input/adjectives/Adjectives/79. short/MVI_5270.MOV,79. short,79. short::mvi::3,train,.mov,10984112
+/kaggle/input/adjectives/Adjectives/79. short/MVI_5269.MOV,79. short,79. short::mvi::3,train,.mov,11026144
+/kaggle/input/adjectives/Adjectives/79. short/MVI_5112.MOV,79. short,79. short::mvi::1,test,.mov,13592584
+/kaggle/input/adjectives/Adjectives/79. short/MVI_9301.MOV,79. short,79. short::mvi::5,train,.mov,10683092
+/kaggle/input/adjectives/Adjectives/79. short/MVI_9463.MOV,79. short,79. short::mvi::7,val,.mov,12246776
+/kaggle/input/adjectives/Adjectives/8. Blind/MVI_9586.MOV,8. blind,8. blind::mvi::1,test,.mov,11380944
+/kaggle/input/adjectives/Adjectives/8. Blind/MVI_9585.MOV,8. blind,8. blind::mvi::1,test,.mov,13301056
+/kaggle/input/adjectives/Adjectives/8. Blind/MVI_9854.MOV,8. blind,8. blind::mvi::2,val,.mov,12267924
+/kaggle/input/adjectives/Adjectives/8. Blind/MVI_9587.MOV,8. blind,8. blind::mvi::1,test,.mov,13042364
+/kaggle/input/adjectives/Adjectives/8. Blind/MVI_9584.MOV,8. blind,8. blind::mvi::1,test,.mov,12843900
+/kaggle/input/adjectives/Adjectives/8. Blind/MVI_9855.MOV,8. blind,8. blind::mvi::2,val,.mov,11731252
+/kaggle/input/adjectives/Adjectives/8. Blind/MVI_9852.MOV,8. blind,8. blind::mvi::2,val,.mov,12590612
+/kaggle/input/adjectives/Adjectives/8. Blind/MVI_9853.MOV,8. blind,8. blind::mvi::2,val,.mov,12238648
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_5055.MOV,80. minute,80. minute::mvi::2,val,.mov,10250448
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_5500.MOV,80. minute,80. minute::mvi::3,test,.mov,7685496
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_5054.MOV,80. minute,80. minute::mvi::2,val,.mov,10508916
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_5501.MOV,80. minute,80. minute::mvi::3,test,.mov,7646100
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_5499.MOV,80. minute,80. minute::mvi::3,test,.mov,8795656
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_4646.MOV,80. minute,80. minute::mvi::1,train,.mov,13296028
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_5053.MOV,80. minute,80. minute::mvi::2,val,.mov,10520532
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_9182.MP4,80. minute,80. minute::mvi::4,train,.mp4,10289426
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_4644.MOV,80. minute,80. minute::mvi::1,train,.mov,12280200
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_5502.MOV,80. minute,80. minute::mvi::3,test,.mov,7831468
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_4645.MOV,80. minute,80. minute::mvi::1,train,.mov,13651252
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_9183.MP4,80. minute,80. minute::mvi::4,train,.mp4,9919451
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_9184.MP4,80. minute,80. minute::mvi::4,train,.mp4,9335371
+/kaggle/input/adjectives/Adjectives/80. Minute/MVI_4643.MOV,80. minute,80. minute::mvi::1,train,.mov,12100320
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_5194.MOV,80. tall,80. tall::mvi::2,train,.mov,11152088
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_5114.MOV,80. tall,80. tall::mvi::1,test,.mov,14019184
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_9384.MOV,80. tall,80. tall::mvi::6,train,.mov,12424088
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_9386.MOV,80. tall,80. tall::mvi::6,train,.mov,13149920
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_5273.MOV,80. tall,80. tall::mvi::3,train,.mov,12819628
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_5196.MOV,80. tall,80. tall::mvi::2,train,.mov,12413704
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_5116.MOV,80. tall,80. tall::mvi::1,test,.mov,14034876
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_9309.MOV,80. tall,80. tall::mvi::5,train,.mov,12583228
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_5195.MOV,80. tall,80. tall::mvi::2,train,.mov,12990260
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_5276.MOV,80. tall,80. tall::mvi::3,train,.mov,11947336
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_9464.MOV,80. tall,80. tall::mvi::7,val,.mov,12921592
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_9307.MOV,80. tall,80. tall::mvi::5,train,.mov,12714728
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_9465.MOV,80. tall,80. tall::mvi::7,val,.mov,11032028
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_5274.MOV,80. tall,80. tall::mvi::3,train,.mov,11811960
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_9224.MOV,80. tall,80. tall::mvi::4,train,.mov,12627244
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_9466.MOV,80. tall,80. tall::mvi::7,val,.mov,11071932
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_9387.MOV,80. tall,80. tall::mvi::6,train,.mov,9745408
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_9225.MOV,80. tall,80. tall::mvi::4,train,.mov,10321808
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_9308.MOV,80. tall,80. tall::mvi::5,train,.mov,10811224
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_9223.MOV,80. tall,80. tall::mvi::4,train,.mov,10358128
+/kaggle/input/adjectives/Adjectives/80. tall/MVI_5115.MOV,80. tall,80. tall::mvi::1,test,.mov,15908368
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_5058.MOV,81. second,81. second::mvi::1,val,.mov,11060540
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_9214.MP4,81. second,81. second::mvi::3,train,.mp4,9991968
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_5056.MOV,81. second,81. second::mvi::1,val,.mov,10294320
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_9213.MP4,81. second,81. second::mvi::3,train,.mp4,10741357
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_9211.MP4,81. second,81. second::mvi::3,train,.mp4,11150109
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_9216.MP4,81. second,81. second::mvi::3,train,.mp4,10096959
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_9209.MP4,81. second,81. second::mvi::3,train,.mp4,11996956
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_9208.MP4,81. second,81. second::mvi::3,train,.mp4,11790336
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_9185.MP4,81. second,81. second::mvi::2,test,.mp4,10583161
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_9186.MP4,81. second,81. second::mvi::2,test,.mp4,11217194
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_9187.MP4,81. second,81. second::mvi::2,test,.mp4,11940275
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_5057.MOV,81. second,81. second::mvi::1,val,.mov,8757916
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_9210.MP4,81. second,81. second::mvi::3,train,.mp4,12011382
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_9212.MP4,81. second,81. second::mvi::3,train,.mp4,10091332
+/kaggle/input/adjectives/Adjectives/81. Second/MVI_9215.MP4,81. second,81. second::mvi::3,train,.mp4,10224116
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_4652.MOV,82. morning,82. morning::mvi::1,train,.mov,12375080
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_5060.MOV,82. morning,82. morning::mvi::2,val,.mov,9247800
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_4653.MOV,82. morning,82. morning::mvi::1,train,.mov,11766700
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_5508.MOV,82. morning,82. morning::mvi::3,test,.mov,8855320
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_5061.MOV,82. morning,82. morning::mvi::2,val,.mov,9238920
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_9190.MP4,82. morning,82. morning::mvi::4,train,.mp4,10445315
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_5507.MOV,82. morning,82. morning::mvi::3,test,.mov,8211044
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_4651.MOV,82. morning,82. morning::mvi::1,train,.mov,11499300
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_4654.MOV,82. morning,82. morning::mvi::1,train,.mov,9889768
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_5510.MOV,82. morning,82. morning::mvi::3,test,.mov,8629776
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_9189.MP4,82. morning,82. morning::mvi::4,train,.mp4,9492548
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_9188.MP4,82. morning,82. morning::mvi::4,train,.mp4,8974604
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_5062.MOV,82. morning,82. morning::mvi::2,val,.mov,9418576
+/kaggle/input/adjectives/Adjectives/82. Morning/MVI_5509.MOV,82. morning,82. morning::mvi::3,test,.mov,8447312
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_9393.MOV,82. narrow,82. narrow::mvi::6,train,.mov,10519920
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_9230.MOV,82. narrow,82. narrow::mvi::4,train,.mov,10919320
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_9472.MOV,82. narrow,82. narrow::mvi::7,val,.mov,12682596
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_5200.MOV,82. narrow,82. narrow::mvi::2,train,.mov,17079316
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_5121.MOV,82. narrow,82. narrow::mvi::1,test,.mov,15775128
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_9231.MOV,82. narrow,82. narrow::mvi::4,train,.mov,11389100
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_9232.MOV,82. narrow,82. narrow::mvi::4,train,.mov,9880528
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_5120.MOV,82. narrow,82. narrow::mvi::1,test,.mov,17306672
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_9392.MOV,82. narrow,82. narrow::mvi::6,train,.mov,11897092
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_5122.MOV,82. narrow,82. narrow::mvi::1,test,.mov,13001088
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_5280.MOV,82. narrow,82. narrow::mvi::3,train,.mov,15331748
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_5201.MOV,82. narrow,82. narrow::mvi::2,train,.mov,17792012
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_9391.MOV,82. narrow,82. narrow::mvi::6,train,.mov,10459280
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_5202.MOV,82. narrow,82. narrow::mvi::2,train,.mov,17524788
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_9313.MOV,82. narrow,82. narrow::mvi::5,train,.mov,9727332
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_5282.MOV,82. narrow,82. narrow::mvi::3,train,.mov,12645156
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_5281.MOV,82. narrow,82. narrow::mvi::3,train,.mov,14490452
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_9471.MOV,82. narrow,82. narrow::mvi::7,val,.mov,13245824
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_9474.MOV,82. narrow,82. narrow::mvi::7,val,.mov,12108268
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_9314.MOV,82. narrow,82. narrow::mvi::5,train,.mov,10621808
+/kaggle/input/adjectives/Adjectives/82. narrow/MVI_9315.MOV,82. narrow,82. narrow::mvi::5,train,.mov,10250928
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_5512.MOV,83. afternoon,83. afternoon::mvi::3,test,.mov,9055916
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_5064.MOV,83. afternoon,83. afternoon::mvi::2,val,.mov,10444016
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_9191.MP4,83. afternoon,83. afternoon::mvi::4,train,.mp4,8174547
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_5511.MOV,83. afternoon,83. afternoon::mvi::3,test,.mov,8633188
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_4656.MOV,83. afternoon,83. afternoon::mvi::1,train,.mov,10120376
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_4657.MOV,83. afternoon,83. afternoon::mvi::1,train,.mov,11125248
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_5513.MOV,83. afternoon,83. afternoon::mvi::3,test,.mov,8184060
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_5514.MOV,83. afternoon,83. afternoon::mvi::3,test,.mov,11090640
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_9192.MP4,83. afternoon,83. afternoon::mvi::4,train,.mp4,8526013
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_4655.MOV,83. afternoon,83. afternoon::mvi::1,train,.mov,9909608
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_9193.MP4,83. afternoon,83. afternoon::mvi::4,train,.mp4,9619605
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_5063.MOV,83. afternoon,83. afternoon::mvi::2,val,.mov,11400588
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_4658.MOV,83. afternoon,83. afternoon::mvi::1,train,.mov,10385744
+/kaggle/input/adjectives/Adjectives/83. Afternoon/MVI_5065.MOV,83. afternoon,83. afternoon::mvi::2,val,.mov,10931112
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_9476.MOV,83. big large,83. big large::mvi::7,val,.mov,12093528
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_5125.MOV,83. big large,83. big large::mvi::1,test,.mov,15696912
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_5205.MOV,83. big large,83. big large::mvi::2,train,.mov,14241324
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_9396.MOV,83. big large,83. big large::mvi::6,train,.mov,12131552
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_9475.MOV,83. big large,83. big large::mvi::7,val,.mov,12068412
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_9395.MOV,83. big large,83. big large::mvi::6,train,.mov,12314816
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_9316.MOV,83. big large,83. big large::mvi::5,train,.mov,9569872
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_5204.MOV,83. big large,83. big large::mvi::2,train,.mov,15174792
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_5285.MOV,83. big large,83. big large::mvi::3,train,.mov,11045076
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_5124.MOV,83. big large,83. big large::mvi::1,test,.mov,13445240
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_9317.MOV,83. big large,83. big large::mvi::5,train,.mov,10422864
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_5123.MOV,83. big large,83. big large::mvi::1,test,.mov,11931868
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_5284.MOV,83. big large,83. big large::mvi::3,train,.mov,11838164
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_9233.MOV,83. big large,83. big large::mvi::4,train,.mov,10182384
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_9477.MOV,83. big large,83. big large::mvi::7,val,.mov,12573624
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_9235.MOV,83. big large,83. big large::mvi::4,train,.mov,9837792
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_9318.MOV,83. big large,83. big large::mvi::5,train,.mov,10792156
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_5283.MOV,83. big large,83. big large::mvi::3,train,.mov,12352772
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_9394.MOV,83. big large,83. big large::mvi::6,train,.mov,12673904
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_9234.MOV,83. big large,83. big large::mvi::4,train,.mov,10024584
+/kaggle/input/adjectives/Adjectives/83. big large/MVI_5203.MOV,83. big large,83. big large::mvi::2,train,.mov,14155972
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_5515.MOV,84. evening,84. evening::mvi::3,test,.mov,7800692
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_5070.MOV,84. evening,84. evening::mvi::2,val,.mov,8994368
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_4662.MOV,84. evening,84. evening::mvi::1,train,.mov,12574688
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_4661.MOV,84. evening,84. evening::mvi::1,train,.mov,10352336
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_5071.MOV,84. evening,84. evening::mvi::2,val,.mov,8969036
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_4659.MOV,84. evening,84. evening::mvi::1,train,.mov,12373948
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_9195.MP4,84. evening,84. evening::mvi::4,train,.mp4,9478425
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_5519.MOV,84. evening,84. evening::mvi::3,test,.mov,8274884
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_5517.MOV,84. evening,84. evening::mvi::3,test,.mov,8683000
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_9196.MP4,84. evening,84. evening::mvi::4,train,.mp4,8728475
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_5072.MOV,84. evening,84. evening::mvi::2,val,.mov,8754488
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_5518.MOV,84. evening,84. evening::mvi::3,test,.mov,7109680
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_9194.MP4,84. evening,84. evening::mvi::4,train,.mp4,10077667
+/kaggle/input/adjectives/Adjectives/84. Evening/MVI_4660.MOV,84. evening,84. evening::mvi::1,train,.mov,10347568
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_5128.MOV,84. small little,84. small little::mvi::1,test,.mov,13638880
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_5208.MOV,84. small little,84. small little::mvi::2,train,.mov,12405752
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_5126.MOV,84. small little,84. small little::mvi::1,test,.mov,18634552
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_9236.MOV,84. small little,84. small little::mvi::4,train,.mov,9528308
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_5206.MOV,84. small little,84. small little::mvi::2,train,.mov,11620300
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_9397.MOV,84. small little,84. small little::mvi::6,train,.mov,11258896
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_9319.MOV,84. small little,84. small little::mvi::5,train,.mov,11126060
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_9321.MOV,84. small little,84. small little::mvi::5,train,.mov,11710716
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_5288.MOV,84. small little,84. small little::mvi::3,train,.mov,8133092
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_5286.MOV,84. small little,84. small little::mvi::3,train,.mov,11314308
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_9237.MOV,84. small little,84. small little::mvi::4,train,.mov,11174456
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_9480.MOV,84. small little,84. small little::mvi::7,val,.mov,12378964
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_5209.MOV,84. small little,84. small little::mvi::2,train,.mov,14892788
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_5207.MOV,84. small little,84. small little::mvi::2,train,.mov,12300864
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_9238.MOV,84. small little,84. small little::mvi::4,train,.mov,11070260
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_9398.MOV,84. small little,84. small little::mvi::6,train,.mov,11037904
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_9478.MOV,84. small little,84. small little::mvi::7,val,.mov,12026636
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_9320.MOV,84. small little,84. small little::mvi::5,train,.mov,11368224
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_9400.MOV,84. small little,84. small little::mvi::6,train,.mov,11826680
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_9479.MOV,84. small little,84. small little::mvi::7,val,.mov,11609836
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_5127.MOV,84. small little,84. small little::mvi::1,test,.mov,17885908
+/kaggle/input/adjectives/Adjectives/84. small little/MVI_5287.MOV,84. small little,84. small little::mvi::3,train,.mov,11713512
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_5523.MOV,85. night,85. night::mvi::3,val,.mov,9116444
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_4664.MOV,85. night,85. night::mvi::1,train,.mov,11853580
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_4665.MOV,85. night,85. night::mvi::1,train,.mov,11855132
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_4666.MOV,85. night,85. night::mvi::1,train,.mov,11258044
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_9200.MP4,85. night,85. night::mvi::4,train,.mp4,9490532
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_5076.MOV,85. night,85. night::mvi::2,test,.mov,9278844
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_9197.MP4,85. night,85. night::mvi::4,train,.mp4,9376946
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_5522.MOV,85. night,85. night::mvi::3,val,.mov,7862240
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_9199.MP4,85. night,85. night::mvi::4,train,.mp4,9359684
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_5074.MOV,85. night,85. night::mvi::2,test,.mov,8644136
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_5073.MOV,85. night,85. night::mvi::2,test,.mov,9478528
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_5521.MOV,85. night,85. night::mvi::3,val,.mov,7360856
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_9198.MP4,85. night,85. night::mvi::4,train,.mp4,9939824
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_5520.MOV,85. night,85. night::mvi::3,val,.mov,8068536
+/kaggle/input/adjectives/Adjectives/85. Night/MVI_4663.MOV,85. night,85. night::mvi::1,train,.mov,11659320
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_9243.MOV,85. slow,85. slow::mvi::4,train,.mov,9811720
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_9483.MOV,85. slow,85. slow::mvi::7,val,.mov,14604924
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_5290.MOV,85. slow,85. slow::mvi::3,train,.mov,11297560
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_9240.MOV,85. slow,85. slow::mvi::4,train,.mov,12412396
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_9404.MOV,85. slow,85. slow::mvi::6,train,.mov,13862488
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_9482.MOV,85. slow,85. slow::mvi::7,val,.mov,13200380
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_9403.MOV,85. slow,85. slow::mvi::6,train,.mov,14344460
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_5212.MOV,85. slow,85. slow::mvi::2,train,.mov,14490108
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_9402.MOV,85. slow,85. slow::mvi::6,train,.mov,13485380
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_9324.MOV,85. slow,85. slow::mvi::5,train,.mov,11696400
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_5131.MOV,85. slow,85. slow::mvi::1,test,.mov,20101752
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_5210.MOV,85. slow,85. slow::mvi::2,train,.mov,15226116
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_9242.MOV,85. slow,85. slow::mvi::4,train,.mov,8416316
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_5132.MOV,85. slow,85. slow::mvi::1,test,.mov,17390264
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_9481.MOV,85. slow,85. slow::mvi::7,val,.mov,13910440
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_5289.MOV,85. slow,85. slow::mvi::3,train,.mov,13846316
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_5211.MOV,85. slow,85. slow::mvi::2,train,.mov,16712832
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_9323.MOV,85. slow,85. slow::mvi::5,train,.mov,12448084
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_5291.MOV,85. slow,85. slow::mvi::3,train,.mov,12788868
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_5130.MOV,85. slow,85. slow::mvi::1,test,.mov,14956316
+/kaggle/input/adjectives/Adjectives/85. slow/MVI_9322.MOV,85. slow,85. slow::mvi::5,train,.mov,10959920
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_5215.MOV,86. fast,86. fast::mvi::2,train,.mov,13932844
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_9245.MOV,86. fast,86. fast::mvi::4,train,.mov,10230864
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_5135.MOV,86. fast,86. fast::mvi::1,test,.mov,16666128
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_9407.MOV,86. fast,86. fast::mvi::6,train,.mov,11555716
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_5214.MOV,86. fast,86. fast::mvi::2,train,.mov,15338068
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_9244.MOV,86. fast,86. fast::mvi::4,train,.mov,9666408
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_9327.MOV,86. fast,86. fast::mvi::5,train,.mov,9198448
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_5292.MOV,86. fast,86. fast::mvi::3,train,.mov,10231080
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_9405.MOV,86. fast,86. fast::mvi::6,train,.mov,11280896
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_5293.MOV,86. fast,86. fast::mvi::3,train,.mov,12106704
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_9406.MOV,86. fast,86. fast::mvi::6,train,.mov,11967920
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_9484.MOV,86. fast,86. fast::mvi::7,val,.mov,13588224
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_9325.MOV,86. fast,86. fast::mvi::5,train,.mov,9416368
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_9485.MOV,86. fast,86. fast::mvi::7,val,.mov,14781140
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_5294.MOV,86. fast,86. fast::mvi::3,train,.mov,11024424
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_9246.MOV,86. fast,86. fast::mvi::4,train,.mov,10000216
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_5213.MOV,86. fast,86. fast::mvi::2,train,.mov,12136692
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_9486.MOV,86. fast,86. fast::mvi::7,val,.mov,13860512
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_5133.MOV,86. fast,86. fast::mvi::1,test,.mov,14399744
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_5134.MOV,86. fast,86. fast::mvi::1,test,.mov,15614448
+/kaggle/input/adjectives/Adjectives/86. fast/MVI_9326.MOV,86. fast,86. fast::mvi::5,train,.mov,10314128
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_4670.MOV,86. time,86. time::mvi::1,train,.mov,14369084
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_5527.MOV,86. time,86. time::mvi::3,val,.mov,8719160
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_4667.MOV,86. time,86. time::mvi::1,train,.mov,12528696
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_5077.MOV,86. time,86. time::mvi::2,test,.mov,9667844
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_4668.MOV,86. time,86. time::mvi::1,train,.mov,12714756
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_5525.MOV,86. time,86. time::mvi::3,val,.mov,8944204
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_4669.MOV,86. time,86. time::mvi::1,train,.mov,16009976
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_5524.MOV,86. time,86. time::mvi::3,val,.mov,8047324
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_9204.MP4,86. time,86. time::mvi::4,train,.mp4,8510236
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_5078.MOV,86. time,86. time::mvi::2,test,.mov,9464252
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_5526.MOV,86. time,86. time::mvi::3,val,.mov,9189556
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_9202.MP4,86. time,86. time::mvi::4,train,.mp4,8754399
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_9203.MP4,86. time,86. time::mvi::4,train,.mp4,8513627
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_9201.MP4,86. time,86. time::mvi::4,train,.mp4,9741546
+/kaggle/input/adjectives/Adjectives/86. Time/MVI_5079.MOV,86. time,86. time::mvi::2,test,.mov,9007476
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_5295.MOV,87. hot,87. hot::mvi::3,train,.mov,12302924
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_5138.MOV,87. hot,87. hot::mvi::1,test,.mov,10810080
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_5297.MOV,87. hot,87. hot::mvi::3,train,.mov,11985748
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_5136.MOV,87. hot,87. hot::mvi::1,test,.mov,15600320
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_9408.MOV,87. hot,87. hot::mvi::6,train,.mov,13897348
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_9329.MOV,87. hot,87. hot::mvi::5,train,.mov,11468164
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_5218.MOV,87. hot,87. hot::mvi::2,train,.mov,14245872
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_9247.MOV,87. hot,87. hot::mvi::4,train,.mov,11745508
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_9249.MOV,87. hot,87. hot::mvi::4,train,.mov,10181808
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_9248.MOV,87. hot,87. hot::mvi::4,train,.mov,10109936
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_5137.MOV,87. hot,87. hot::mvi::1,test,.mov,12237212
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_9488.MOV,87. hot,87. hot::mvi::7,val,.mov,14430032
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_5216.MOV,87. hot,87. hot::mvi::2,train,.mov,12139164
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_9489.MOV,87. hot,87. hot::mvi::7,val,.mov,13790348
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_9487.MOV,87. hot,87. hot::mvi::7,val,.mov,14024952
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_9330.MOV,87. hot,87. hot::mvi::5,train,.mov,10791704
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_5217.MOV,87. hot,87. hot::mvi::2,train,.mov,14223312
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_9410.MOV,87. hot,87. hot::mvi::6,train,.mov,12409156
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_9409.MOV,87. hot,87. hot::mvi::6,train,.mov,14591444
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_5296.MOV,87. hot,87. hot::mvi::3,train,.mov,12270304
+/kaggle/input/adjectives/Adjectives/87. hot/MVI_9328.MOV,87. hot,87. hot::mvi::5,train,.mov,11225896
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_9490.MOV,88. cold,88. cold::mvi::7,val,.mov,15298648
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_5140.MOV,88. cold,88. cold::mvi::1,test,.mov,15854704
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_9412.MOV,88. cold,88. cold::mvi::6,train,.mov,11764824
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_5300.MOV,88. cold,88. cold::mvi::3,train,.mov,11757092
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_9413.MOV,88. cold,88. cold::mvi::6,train,.mov,12376876
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_9411.MOV,88. cold,88. cold::mvi::6,train,.mov,12146016
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_9491.MOV,88. cold,88. cold::mvi::7,val,.mov,14578084
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_9492.MOV,88. cold,88. cold::mvi::7,val,.mov,16437568
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_9251.MOV,88. cold,88. cold::mvi::4,train,.mov,10247600
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_5221.MOV,88. cold,88. cold::mvi::2,train,.mov,11891680
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_9252.MOV,88. cold,88. cold::mvi::4,train,.mov,10570392
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_9250.MOV,88. cold,88. cold::mvi::4,train,.mov,10230896
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_9333.MOV,88. cold,88. cold::mvi::5,train,.mov,11074032
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_9332.MOV,88. cold,88. cold::mvi::5,train,.mov,10598712
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_5139.MOV,88. cold,88. cold::mvi::1,test,.mov,12390628
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_5299.MOV,88. cold,88. cold::mvi::3,train,.mov,12461896
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_5298.MOV,88. cold,88. cold::mvi::3,train,.mov,11373828
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_5220.MOV,88. cold,88. cold::mvi::2,train,.mov,11110756
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_5219.MOV,88. cold,88. cold::mvi::2,train,.mov,11933640
+/kaggle/input/adjectives/Adjectives/88. cold/MVI_9331.MOV,88. cold,88. cold::mvi::5,train,.mov,10151780
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_5302.MOV,89. warm,89. warm::mvi::3,train,.mov,11822556
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_9495.MOV,89. warm,89. warm::mvi::7,val,.mov,15590608
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_9336.MOV,89. warm,89. warm::mvi::5,train,.mov,11463052
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_5141.MOV,89. warm,89. warm::mvi::1,test,.mov,15054508
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_9416.MOV,89. warm,89. warm::mvi::6,train,.mov,16685292
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_5303.MOV,89. warm,89. warm::mvi::3,train,.mov,9995520
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_9417.MOV,89. warm,89. warm::mvi::6,train,.mov,14598584
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_9253.MOV,89. warm,89. warm::mvi::4,train,.mov,10174768
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_5143.MOV,89. warm,89. warm::mvi::1,test,.mov,15436748
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_5144.MOV,89. warm,89. warm::mvi::1,test,.mov,15440108
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_9255.MOV,89. warm,89. warm::mvi::4,train,.mov,10895064
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_9334.MOV,89. warm,89. warm::mvi::5,train,.mov,11968832
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_9254.MOV,89. warm,89. warm::mvi::4,train,.mov,12660120
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_9415.MOV,89. warm,89. warm::mvi::6,train,.mov,17591196
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_9335.MOV,89. warm,89. warm::mvi::5,train,.mov,12381660
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_9494.MOV,89. warm,89. warm::mvi::7,val,.mov,14688840
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_5222.MOV,89. warm,89. warm::mvi::2,train,.mov,12787208
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_5301.MOV,89. warm,89. warm::mvi::3,train,.mov,11430624
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_9493.MOV,89. warm,89. warm::mvi::7,val,.mov,15837656
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_5224.MOV,89. warm,89. warm::mvi::2,train,.mov,14621692
+/kaggle/input/adjectives/Adjectives/89. warm/MVI_5223.MOV,89. warm,89. warm::mvi::2,train,.mov,13438164
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_9339.MOV,90. cool,90. cool::mvi::5,train,.mov,11440956
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_9337.MOV,90. cool,90. cool::mvi::5,train,.mov,10729892
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_9338.MOV,90. cool,90. cool::mvi::5,train,.mov,12807788
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_9420.MOV,90. cool,90. cool::mvi::6,train,.mov,9833968
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_9418.MOV,90. cool,90. cool::mvi::6,train,.mov,12170512
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_9498.MOV,90. cool,90. cool::mvi::7,val,.mov,11701032
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_9497.MOV,90. cool,90. cool::mvi::7,val,.mov,11794288
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_5227.MOV,90. cool,90. cool::mvi::2,train,.mov,12278912
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_9258.MOV,90. cool,90. cool::mvi::4,train,.mov,10854964
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_9256.MOV,90. cool,90. cool::mvi::4,train,.mov,10701824
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_5146.MOV,90. cool,90. cool::mvi::1,test,.mov,14745264
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_5225.MOV,90. cool,90. cool::mvi::2,train,.mov,13229488
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_5304.MOV,90. cool,90. cool::mvi::3,train,.mov,10847180
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_5226.MOV,90. cool,90. cool::mvi::2,train,.mov,10895540
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_9419.MOV,90. cool,90. cool::mvi::6,train,.mov,11038016
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_9257.MOV,90. cool,90. cool::mvi::4,train,.mov,9812240
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_9499.MOV,90. cool,90. cool::mvi::7,val,.mov,12463596
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_5305.MOV,90. cool,90. cool::mvi::3,train,.mov,10345808
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_5147.MOV,90. cool,90. cool::mvi::1,test,.mov,14976372
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_5306.MOV,90. cool,90. cool::mvi::3,train,.mov,9192592
+/kaggle/input/adjectives/Adjectives/90. cool/MVI_5145.MOV,90. cool,90. cool::mvi::1,test,.mov,16690324
+/kaggle/input/adjectives/Adjectives/91. new/MVI_5148.MOV,91. new,91. new::mvi::1,test,.mov,12424004
+/kaggle/input/adjectives/Adjectives/91. new/MVI_9261.MOV,91. new,91. new::mvi::4,train,.mov,10750968
+/kaggle/input/adjectives/Adjectives/91. new/MVI_9421.MOV,91. new,91. new::mvi::6,train,.mov,14157164
+/kaggle/input/adjectives/Adjectives/91. new/MVI_9422.MOV,91. new,91. new::mvi::6,train,.mov,10256932
+/kaggle/input/adjectives/Adjectives/91. new/MVI_5150.MOV,91. new,91. new::mvi::1,test,.mov,13982548
+/kaggle/input/adjectives/Adjectives/91. new/MVI_9501.MOV,91. new,91. new::mvi::7,val,.mov,10991380
+/kaggle/input/adjectives/Adjectives/91. new/MVI_5230.MOV,91. new,91. new::mvi::2,train,.mov,12327340
+/kaggle/input/adjectives/Adjectives/91. new/MVI_9341.MOV,91. new,91. new::mvi::5,train,.mov,10495108
+/kaggle/input/adjectives/Adjectives/91. new/MVI_9502.MOV,91. new,91. new::mvi::7,val,.mov,11601728
+/kaggle/input/adjectives/Adjectives/91. new/MVI_5308.MOV,91. new,91. new::mvi::3,train,.mov,8943340
+/kaggle/input/adjectives/Adjectives/91. new/MVI_9259.MOV,91. new,91. new::mvi::4,train,.mov,9920896
+/kaggle/input/adjectives/Adjectives/91. new/MVI_5307.MOV,91. new,91. new::mvi::3,train,.mov,8488296
+/kaggle/input/adjectives/Adjectives/91. new/MVI_5229.MOV,91. new,91. new::mvi::2,train,.mov,11498232
+/kaggle/input/adjectives/Adjectives/91. new/MVI_9500.MOV,91. new,91. new::mvi::7,val,.mov,12528240
+/kaggle/input/adjectives/Adjectives/91. new/MVI_5151.MOV,91. new,91. new::mvi::1,test,.mov,12835640
+/kaggle/input/adjectives/Adjectives/91. new/MVI_9423.MOV,91. new,91. new::mvi::6,train,.mov,10896452
+/kaggle/input/adjectives/Adjectives/91. new/MVI_5231.MOV,91. new,91. new::mvi::2,train,.mov,13433520
+/kaggle/input/adjectives/Adjectives/91. new/MVI_5309.MOV,91. new,91. new::mvi::3,train,.mov,9905452
+/kaggle/input/adjectives/Adjectives/91. new/MVI_9342.MOV,91. new,91. new::mvi::5,train,.mov,10046080
+/kaggle/input/adjectives/Adjectives/91. new/MVI_9260.MOV,91. new,91. new::mvi::4,train,.mov,10653200
+/kaggle/input/adjectives/Adjectives/91. new/MVI_9340.MOV,91. new,91. new::mvi::5,train,.mov,10623348
+/kaggle/input/adjectives/Adjectives/92. old/MVI_9343.MOV,92. old,92. old::mvi::5,train,.mov,10800676
+/kaggle/input/adjectives/Adjectives/92. old/MVI_9345.MOV,92. old,92. old::mvi::5,train,.mov,11242952
+/kaggle/input/adjectives/Adjectives/92. old/MVI_9262.MOV,92. old,92. old::mvi::4,train,.mov,9924988
+/kaggle/input/adjectives/Adjectives/92. old/MVI_5154.MOV,92. old,92. old::mvi::1,test,.mov,16013168
+/kaggle/input/adjectives/Adjectives/92. old/MVI_5310.MOV,92. old,92. old::mvi::3,train,.mov,8250736
+/kaggle/input/adjectives/Adjectives/92. old/MVI_9263.MOV,92. old,92. old::mvi::4,train,.mov,11273520
+/kaggle/input/adjectives/Adjectives/92. old/MVI_5233.MOV,92. old,92. old::mvi::2,train,.mov,12878748
+/kaggle/input/adjectives/Adjectives/92. old/MVI_5312.MOV,92. old,92. old::mvi::3,train,.mov,10568012
+/kaggle/input/adjectives/Adjectives/92. old/MVI_9264.MOV,92. old,92. old::mvi::4,train,.mov,11285168
+/kaggle/input/adjectives/Adjectives/92. old/MVI_9424.MOV,92. old,92. old::mvi::6,train,.mov,12241800
+/kaggle/input/adjectives/Adjectives/92. old/MVI_5234.MOV,92. old,92. old::mvi::2,train,.mov,12259168
+/kaggle/input/adjectives/Adjectives/92. old/MVI_9344.MOV,92. old,92. old::mvi::5,train,.mov,12045436
+/kaggle/input/adjectives/Adjectives/92. old/MVI_5232.MOV,92. old,92. old::mvi::2,train,.mov,10569224
+/kaggle/input/adjectives/Adjectives/92. old/MVI_5152.MOV,92. old,92. old::mvi::1,test,.mov,14981216
+/kaggle/input/adjectives/Adjectives/92. old/MVI_5153.MOV,92. old,92. old::mvi::1,test,.mov,14291628
+/kaggle/input/adjectives/Adjectives/92. old/MVI_9504.MOV,92. old,92. old::mvi::7,val,.mov,13139124
+/kaggle/input/adjectives/Adjectives/92. old/MVI_9425.MOV,92. old,92. old::mvi::6,train,.mov,10894092
+/kaggle/input/adjectives/Adjectives/92. old/MVI_9506.MOV,92. old,92. old::mvi::7,val,.mov,13935268
+/kaggle/input/adjectives/Adjectives/92. old/MVI_5311.MOV,92. old,92. old::mvi::3,train,.mov,10208720
+/kaggle/input/adjectives/Adjectives/92. old/MVI_9505.MOV,92. old,92. old::mvi::7,val,.mov,13976772
+/kaggle/input/adjectives/Adjectives/92. old/MVI_9426.MOV,92. old,92. old::mvi::6,train,.mov,10622180
+/kaggle/input/adjectives/Adjectives/93. young/MVI_9509.MOV,93. young,93. young::mvi::7,val,.mov,11383912
+/kaggle/input/adjectives/Adjectives/93. young/MVI_9507.MOV,93. young,93. young::mvi::7,val,.mov,12953932
+/kaggle/input/adjectives/Adjectives/93. young/MVI_9429.MOV,93. young,93. young::mvi::6,train,.mov,9459104
+/kaggle/input/adjectives/Adjectives/93. young/MVI_5157.MOV,93. young,93. young::mvi::1,test,.mov,17093676
+/kaggle/input/adjectives/Adjectives/93. young/MVI_9347.MOV,93. young,93. young::mvi::5,train,.mov,10003336
+/kaggle/input/adjectives/Adjectives/93. young/MVI_5315.MOV,93. young,93. young::mvi::3,train,.mov,9993004
+/kaggle/input/adjectives/Adjectives/93. young/MVI_9508.MOV,93. young,93. young::mvi::7,val,.mov,12191696
+/kaggle/input/adjectives/Adjectives/93. young/MVI_5156.MOV,93. young,93. young::mvi::1,test,.mov,14920048
+/kaggle/input/adjectives/Adjectives/93. young/MVI_5236.MOV,93. young,93. young::mvi::2,train,.mov,14117916
+/kaggle/input/adjectives/Adjectives/93. young/MVI_9427.MOV,93. young,93. young::mvi::6,train,.mov,9884256
+/kaggle/input/adjectives/Adjectives/93. young/MVI_9267.MOV,93. young,93. young::mvi::4,train,.mov,12359704
+/kaggle/input/adjectives/Adjectives/93. young/MVI_9346.MOV,93. young,93. young::mvi::5,train,.mov,9603212
+/kaggle/input/adjectives/Adjectives/93. young/MVI_9266.MOV,93. young,93. young::mvi::4,train,.mov,11398272
+/kaggle/input/adjectives/Adjectives/93. young/MVI_5313.MOV,93. young,93. young::mvi::3,train,.mov,9695416
+/kaggle/input/adjectives/Adjectives/93. young/MVI_5237.MOV,93. young,93. young::mvi::2,train,.mov,14710308
+/kaggle/input/adjectives/Adjectives/93. young/MVI_5235.MOV,93. young,93. young::mvi::2,train,.mov,12816320
+/kaggle/input/adjectives/Adjectives/93. young/MVI_9265.MOV,93. young,93. young::mvi::4,train,.mov,9148776
+/kaggle/input/adjectives/Adjectives/93. young/MVI_9428.MOV,93. young,93. young::mvi::6,train,.mov,10493264
+/kaggle/input/adjectives/Adjectives/93. young/MVI_5314.MOV,93. young,93. young::mvi::3,train,.mov,11501888
+/kaggle/input/adjectives/Adjectives/93. young/MVI_9348.MOV,93. young,93. young::mvi::5,train,.mov,9979648
+/kaggle/input/adjectives/Adjectives/93. young/MVI_5155.MOV,93. young,93. young::mvi::1,test,.mov,14428732
+/kaggle/input/adjectives/Adjectives/94. good/MVI_9350.MOV,94. good,94. good::mvi::5,train,.mov,9657984
+/kaggle/input/adjectives/Adjectives/94. good/MVI_9268.MOV,94. good,94. good::mvi::4,train,.mov,10209536
+/kaggle/input/adjectives/Adjectives/94. good/MVI_5318.MOV,94. good,94. good::mvi::3,train,.mov,9549556
+/kaggle/input/adjectives/Adjectives/94. good/MVI_5240.MOV,94. good,94. good::mvi::2,train,.mov,14353620
+/kaggle/input/adjectives/Adjectives/94. good/MVI_5160.MOV,94. good,94. good::mvi::1,test,.mov,13859656
+/kaggle/input/adjectives/Adjectives/94. good/MVI_9270.MOV,94. good,94. good::mvi::4,train,.mov,10219348
+/kaggle/input/adjectives/Adjectives/94. good/MVI_9349.MOV,94. good,94. good::mvi::5,train,.mov,8843740
+/kaggle/input/adjectives/Adjectives/94. good/MVI_5317.MOV,94. good,94. good::mvi::3,train,.mov,10616772
+/kaggle/input/adjectives/Adjectives/94. good/MVI_5238.MOV,94. good,94. good::mvi::2,train,.mov,10507940
+/kaggle/input/adjectives/Adjectives/94. good/MVI_9269.MOV,94. good,94. good::mvi::4,train,.mov,10641712
+/kaggle/input/adjectives/Adjectives/94. good/MVI_9432.MOV,94. good,94. good::mvi::6,train,.mov,13314604
+/kaggle/input/adjectives/Adjectives/94. good/MVI_9431.MOV,94. good,94. good::mvi::6,train,.mov,13176100
+/kaggle/input/adjectives/Adjectives/94. good/MVI_9511.MOV,94. good,94. good::mvi::7,val,.mov,12430532
+/kaggle/input/adjectives/Adjectives/94. good/MVI_9510.MOV,94. good,94. good::mvi::7,val,.mov,13851764
+/kaggle/input/adjectives/Adjectives/94. good/MVI_9351.MOV,94. good,94. good::mvi::5,train,.mov,10769344
+/kaggle/input/adjectives/Adjectives/94. good/MVI_9512.MOV,94. good,94. good::mvi::7,val,.mov,11127660
+/kaggle/input/adjectives/Adjectives/94. good/MVI_5158.MOV,94. good,94. good::mvi::1,test,.mov,16467128
+/kaggle/input/adjectives/Adjectives/94. good/MVI_5316.MOV,94. good,94. good::mvi::3,train,.mov,9976860
+/kaggle/input/adjectives/Adjectives/94. good/MVI_5159.MOV,94. good,94. good::mvi::1,test,.mov,14122932
+/kaggle/input/adjectives/Adjectives/94. good/MVI_5239.MOV,94. good,94. good::mvi::2,train,.mov,12036056
+/kaggle/input/adjectives/Adjectives/94. good/MVI_9430.MOV,94. good,94. good::mvi::6,train,.mov,15230296
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_9353.MOV,95. bad,95. bad::mvi::5,train,.mov,9823932
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_9352.MOV,95. bad,95. bad::mvi::5,train,.mov,9159316
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_5241.MOV,95. bad,95. bad::mvi::2,train,.mov,11091948
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_9516.MOV,95. bad,95. bad::mvi::7,val,.mov,12856576
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_9433.MOV,95. bad,95. bad::mvi::6,train,.mov,10052868
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_5163.MOV,95. bad,95. bad::mvi::1,test,.mov,14627736
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_9434.MOV,95. bad,95. bad::mvi::6,train,.mov,10369296
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_9514.MOV,95. bad,95. bad::mvi::7,val,.mov,13200168
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_9435.MOV,95. bad,95. bad::mvi::6,train,.mov,10151040
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_9272.MOV,95. bad,95. bad::mvi::4,train,.mov,10130160
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_5242.MOV,95. bad,95. bad::mvi::2,train,.mov,11727540
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_9354.MOV,95. bad,95. bad::mvi::5,train,.mov,8611620
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_5319.MOV,95. bad,95. bad::mvi::3,train,.mov,11023784
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_9513.MOV,95. bad,95. bad::mvi::7,val,.mov,13954904
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_5161.MOV,95. bad,95. bad::mvi::1,test,.mov,13090760
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_9273.MOV,95. bad,95. bad::mvi::4,train,.mov,9705328
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_5162.MOV,95. bad,95. bad::mvi::1,test,.mov,12190912
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_5321.MOV,95. bad,95. bad::mvi::3,train,.mov,12504824
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_9271.MOV,95. bad,95. bad::mvi::4,train,.mov,9699076
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_5243.MOV,95. bad,95. bad::mvi::2,train,.mov,10199760
+/kaggle/input/adjectives/Adjectives/95. bad/MVI_5320.MOV,95. bad,95. bad::mvi::3,train,.mov,10835304
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_5244.MOV,96. wet,96. wet::mvi::2,train,.mov,14103688
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_9276.MOV,96. wet,96. wet::mvi::4,train,.mov,14744564
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_9518.MOV,96. wet,96. wet::mvi::7,val,.mov,13786748
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_9520.MOV,96. wet,96. wet::mvi::7,val,.mov,14708068
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_5164.MOV,96. wet,96. wet::mvi::1,test,.mov,18358624
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_9356.MOV,96. wet,96. wet::mvi::5,train,.mov,12373668
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_5324.MOV,96. wet,96. wet::mvi::3,train,.mov,11760148
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_5166.MOV,96. wet,96. wet::mvi::1,test,.mov,17170452
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_9436.MOV,96. wet,96. wet::mvi::6,train,.mov,14487064
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_5246.MOV,96. wet,96. wet::mvi::2,train,.mov,16396028
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_5322.MOV,96. wet,96. wet::mvi::3,train,.mov,11927160
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_5245.MOV,96. wet,96. wet::mvi::2,train,.mov,15653744
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_9275.MOV,96. wet,96. wet::mvi::4,train,.mov,14140340
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_9517.MOV,96. wet,96. wet::mvi::7,val,.mov,15140392
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_5323.MOV,96. wet,96. wet::mvi::3,train,.mov,12033044
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_9274.MOV,96. wet,96. wet::mvi::4,train,.mov,13187200
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_9357.MOV,96. wet,96. wet::mvi::5,train,.mov,12742784
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_9437.MOV,96. wet,96. wet::mvi::6,train,.mov,14006648
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_9438.MOV,96. wet,96. wet::mvi::6,train,.mov,13277612
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_5165.MOV,96. wet,96. wet::mvi::1,test,.mov,14752592
+/kaggle/input/adjectives/Adjectives/96. wet/MVI_9355.MOV,96. wet,96. wet::mvi::5,train,.mov,13032620
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_5167.MOV,97. dry,97. dry::mvi::1,test,.mov,15185340
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_5168.MOV,97. dry,97. dry::mvi::1,test,.mov,17854640
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_9523.MOV,97. dry,97. dry::mvi::7,val,.mov,14722544
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_5169.MOV,97. dry,97. dry::mvi::1,test,.mov,18226296
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_9360.MOV,97. dry,97. dry::mvi::5,train,.mov,11487656
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_9278.MOV,97. dry,97. dry::mvi::4,train,.mov,14167608
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_9439.MOV,97. dry,97. dry::mvi::6,train,.mov,13888504
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_5328.MOV,97. dry,97. dry::mvi::3,train,.mov,11899952
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_9279.MOV,97. dry,97. dry::mvi::4,train,.mov,12633168
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_9441.MOV,97. dry,97. dry::mvi::6,train,.mov,12360180
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_5249.MOV,97. dry,97. dry::mvi::2,train,.mov,14646824
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_9522.MOV,97. dry,97. dry::mvi::7,val,.mov,14214008
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_9521.MOV,97. dry,97. dry::mvi::7,val,.mov,14033128
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_9277.MOV,97. dry,97. dry::mvi::4,train,.mov,12422192
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_5327.MOV,97. dry,97. dry::mvi::3,train,.mov,12446620
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_5248.MOV,97. dry,97. dry::mvi::2,train,.mov,12572500
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_9440.MOV,97. dry,97. dry::mvi::6,train,.mov,12586820
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_5326.MOV,97. dry,97. dry::mvi::3,train,.mov,13159996
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_9359.MOV,97. dry,97. dry::mvi::5,train,.mov,11961904
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_5250.MOV,97. dry,97. dry::mvi::2,train,.mov,14613040
+/kaggle/input/adjectives/Adjectives/97. dry/MVI_9361.MOV,97. dry,97. dry::mvi::5,train,.mov,11383528
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_5251.MOV,98. sick,98. sick::mvi::2,train,.mov,14546260
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_9442.MOV,98. sick,98. sick::mvi::6,train,.mov,12921532
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_5330.MOV,98. sick,98. sick::mvi::3,train,.mov,11068592
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_9364.MOV,98. sick,98. sick::mvi::5,train,.mov,9652180
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_5329.MOV,98. sick,98. sick::mvi::3,train,.mov,10097432
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_5172.MOV,98. sick,98. sick::mvi::1,test,.mov,17996864
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_9280.MOV,98. sick,98. sick::mvi::4,train,.mov,12505512
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_9281.MOV,98. sick,98. sick::mvi::4,train,.mov,11897428
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_9527.MOV,98. sick,98. sick::mvi::7,val,.mov,14334896
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_5252.MOV,98. sick,98. sick::mvi::2,train,.mov,13842300
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_9282.MOV,98. sick,98. sick::mvi::4,train,.mov,14712284
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_9528.MOV,98. sick,98. sick::mvi::7,val,.mov,15573428
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_9444.MOV,98. sick,98. sick::mvi::6,train,.mov,12293104
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_9443.MOV,98. sick,98. sick::mvi::6,train,.mov,13210264
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_9363.MOV,98. sick,98. sick::mvi::5,train,.mov,9502368
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_5253.MOV,98. sick,98. sick::mvi::2,train,.mov,13056220
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_5331.MOV,98. sick,98. sick::mvi::3,train,.mov,12027980
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_5171.MOV,98. sick,98. sick::mvi::1,test,.mov,19578500
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_5170.MOV,98. sick,98. sick::mvi::1,test,.mov,15833976
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_9529.MOV,98. sick,98. sick::mvi::7,val,.mov,14250736
+/kaggle/input/adjectives/Adjectives/98. sick/MVI_9362.MOV,98. sick,98. sick::mvi::5,train,.mov,10129376
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_5174.MOV,99. healthy,99. healthy::mvi::1,test,.mov,17516364
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_9532.MOV,99. healthy,99. healthy::mvi::7,val,.mov,13992664
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_5334.MOV,99. healthy,99. healthy::mvi::3,train,.mov,11824628
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_5175.MOV,99. healthy,99. healthy::mvi::1,test,.mov,21407484
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_9367.MOV,99. healthy,99. healthy::mvi::5,train,.mov,10787120
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_5256.MOV,99. healthy,99. healthy::mvi::2,train,.mov,14608844
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_9445.MOV,99. healthy,99. healthy::mvi::6,train,.mov,14167504
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_5332.MOV,99. healthy,99. healthy::mvi::3,train,.mov,11342304
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_9288.MOV,99. healthy,99. healthy::mvi::4,train,.mov,14529548
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_9366.MOV,99. healthy,99. healthy::mvi::5,train,.mov,12429760
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_5333.MOV,99. healthy,99. healthy::mvi::3,train,.mov,11282396
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_9365.MOV,99. healthy,99. healthy::mvi::5,train,.mov,11839764
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_9531.MOV,99. healthy,99. healthy::mvi::7,val,.mov,13574256
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_9530.MOV,99. healthy,99. healthy::mvi::7,val,.mov,13773456
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_9446.MOV,99. healthy,99. healthy::mvi::6,train,.mov,13228344
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_9447.MOV,99. healthy,99. healthy::mvi::6,train,.mov,12591936
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_5254.MOV,99. healthy,99. healthy::mvi::2,train,.mov,13591652
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_9286.MOV,99. healthy,99. healthy::mvi::4,train,.mov,12297420
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_5173.MOV,99. healthy,99. healthy::mvi::1,test,.mov,14975152
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_5255.MOV,99. healthy,99. healthy::mvi::2,train,.mov,15445884
+/kaggle/input/adjectives/Adjectives/99. healthy/MVI_9287.MOV,99. healthy,99. healthy::mvi::4,train,.mov,13589436
